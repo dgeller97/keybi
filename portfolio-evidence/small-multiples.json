@@ -1,0 +1,21 @@
+{
+  "east": [
+    216,
+    298,
+    349
+  ],
+  "west": [
+    214,
+    271,
+    383
+  ],
+  "westAverage": [
+    107,
+    135.5,
+    191.5
+  ],
+  "readerWestMarch": 383,
+  "westAll": 868,
+  "selectedEastRetailFebruary": 154,
+  "savedSingleColumn": true
+}

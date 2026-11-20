@@ -1,0 +1,223 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/9d9674d7-4c28-4131-9410-841582884306",
+  "checks": [
+    {
+      "levels": [
+        "Region",
+        "Channel"
+      ],
+      "collapsed": [
+        "East"
+      ],
+      "headers": [
+        [
+          "East subtotal",
+          ""
+        ],
+        [
+          "West subtotal",
+          ""
+        ],
+        [
+          "West",
+          "Online"
+        ],
+        [
+          "West",
+          "Retail"
+        ],
+        [
+          "Grand total",
+          ""
+        ]
+      ],
+      "rows": {
+        "[\"East\"]": [
+          "$863.00",
+          "74"
+        ],
+        "[\"West\"]": [
+          "$868.00",
+          "63"
+        ],
+        "[\"West\",\"Online\"]": [
+          "$478.00",
+          "33"
+        ],
+        "[\"West\",\"Retail\"]": [
+          "$390.00",
+          "30"
+        ],
+        "[]": [
+          "$1,731.00",
+          "137"
+        ]
+      }
+    },
+    {
+      "levels": [
+        "Region",
+        "Channel"
+      ],
+      "collapsed": [],
+      "headers": [
+        [
+          "East subtotal",
+          ""
+        ],
+        [
+          "East",
+          "Online"
+        ],
+        [
+          "East",
+          "Retail"
+        ],
+        [
+          "West subtotal",
+          ""
+        ],
+        [
+          "West",
+          "Online"
+        ],
+        [
+          "West",
+          "Retail"
+        ],
+        [
+          "Grand total",
+          ""
+        ]
+      ],
+      "rows": {
+        "[\"East\"]": [
+          "$863.00",
+          "74"
+        ],
+        "[\"East\",\"Online\"]": [
+          "$409.00",
+          "33"
+        ],
+        "[\"East\",\"Retail\"]": [
+          "$454.00",
+          "41"
+        ],
+        "[\"West\"]": [
+          "$868.00",
+          "63"
+        ],
+        "[\"West\",\"Online\"]": [
+          "$478.00",
+          "33"
+        ],
+        "[\"West\",\"Retail\"]": [
+          "$390.00",
+          "30"
+        ],
+        "[]": [
+          "$1,731.00",
+          "137"
+        ]
+      }
+    },
+    {
+      "levels": [
+        "Channel",
+        "Region"
+      ],
+      "collapsed": [],
+      "headers": [
+        [
+          "Online subtotal",
+          ""
+        ],
+        [
+          "Online",
+          "East"
+        ],
+        [
+          "Online",
+          "West"
+        ],
+        [
+          "Retail subtotal",
+          ""
+        ],
+        [
+          "Retail",
+          "East"
+        ],
+        [
+          "Retail",
+          "West"
+        ],
+        [
+          "Grand total",
+          ""
+        ]
+      ],
+      "rows": {
+        "[\"Online\"]": [
+          "$887.00",
+          "66"
+        ],
+        "[\"Online\",\"East\"]": [
+          "$409.00",
+          "33"
+        ],
+        "[\"Online\",\"West\"]": [
+          "$478.00",
+          "33"
+        ],
+        "[\"Retail\"]": [
+          "$844.00",
+          "71"
+        ],
+        "[\"Retail\",\"East\"]": [
+          "$454.00",
+          "41"
+        ],
+        "[\"Retail\",\"West\"]": [
+          "$390.00",
+          "30"
+        ],
+        "[]": [
+          "$1,731.00",
+          "137"
+        ]
+      }
+    },
+    {
+      "levels": [
+        "Channel"
+      ],
+      "collapsed": [],
+      "headers": [
+        [
+          "Online"
+        ],
+        [
+          "Retail"
+        ],
+        [
+          "Grand total"
+        ]
+      ],
+      "rows": {
+        "[\"Online\"]": [
+          "$887.00",
+          "66"
+        ],
+        "[\"Retail\"]": [
+          "$844.00",
+          "71"
+        ],
+        "[]": [
+          "$1,731.00",
+          "137"
+        ]
+      }
+    }
+  ]
+}

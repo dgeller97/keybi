@@ -1,0 +1,66 @@
+[
+  {
+    "member": "Margin",
+    "selected": null,
+    "ms": 35.5,
+    "marks": 12,
+    "tableRows": 12,
+    "total": "22.49%"
+  },
+  {
+    "member": "Billed revenue",
+    "selected": null,
+    "ms": 24.700000017881393,
+    "marks": 12,
+    "tableRows": 12,
+    "total": "$504,604,610.30"
+  },
+  {
+    "member": "Margin",
+    "selected": null,
+    "ms": 26.099999994039536,
+    "marks": 12,
+    "tableRows": 12,
+    "total": "22.49%"
+  },
+  {
+    "member": "Billed revenue",
+    "selected": null,
+    "ms": 19.599999994039536,
+    "marks": 12,
+    "tableRows": 12,
+    "total": "$504,604,610.30"
+  },
+  {
+    "member": "Margin",
+    "selected": "A",
+    "ms": 27,
+    "marks": 12,
+    "tableRows": 1,
+    "total": "22.43%"
+  },
+  {
+    "member": "Billed revenue",
+    "selected": "A",
+    "ms": 27,
+    "marks": 12,
+    "tableRows": 1,
+    "total": "$42,150,419.86"
+  },
+  {
+    "member": "Margin",
+    "selected": "A",
+    "ms": 26.599999994039536,
+    "marks": 12,
+    "tableRows": 1,
+    "total": "22.43%"
+  },
+  {
+    "member": "Billed revenue",
+    "selected": "A",
+    "ms": 26.200000017881393,
+    "marks": 12,
+    "tableRows": 1,
+    "total": "$42,150,419.86"
+  }
+]

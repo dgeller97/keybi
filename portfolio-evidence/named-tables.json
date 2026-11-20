@@ -1,0 +1,79 @@
+{
+  "selected": [
+    "PurchaseLines",
+    "AuthorizationLimits"
+  ],
+  "original": [
+    [
+      "P-01",
+      "Facilities lead",
+      "100",
+      "$124.50"
+    ],
+    [
+      "P-02",
+      "Surgery lead",
+      "75",
+      "$80.00"
+    ],
+    [
+      "P-03",
+      "Facilities lead",
+      "100",
+      "$0.00"
+    ],
+    [
+      "P-04",
+      "Facilities lead",
+      "100",
+      "-$12.25"
+    ],
+    [
+      "P-05",
+      "Imaging lead",
+      "50",
+      "$33.50"
+    ]
+  ],
+  "updated": [
+    [
+      "P-01",
+      "Facilities lead",
+      "125",
+      "$124.50"
+    ],
+    [
+      "P-02",
+      "Surgery lead",
+      "70",
+      "$80.00"
+    ],
+    [
+      "P-03",
+      "Facilities lead",
+      "125",
+      "$0.00"
+    ],
+    [
+      "P-04",
+      "Facilities lead",
+      "125",
+      "-$12.25"
+    ],
+    [
+      "P-05",
+      "Imaging lead",
+      "50",
+      "$33.50"
+    ]
+  ],
+  "excludedTotals": true,
+  "duplicateUpdateRejected": true,
+  "originalExceptions": [
+    "P-01",
+    "P-02"
+  ],
+  "revisedExceptions": [
+    "P-02"
+  ]
+}

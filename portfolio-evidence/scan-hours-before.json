@@ -1,0 +1,23 @@
+{
+  "choices": [
+    "Dispatch · Orders",
+    "Dispatch · Revenue",
+    "Dispatch · Target",
+    "Dispatch · Change",
+    "Pipeline · Latitude",
+    "Pipeline · Longitude",
+    "Pipeline · Deals",
+    "Schedule · Complete",
+    "Schedule · CrewDays",
+    "Depots · Latitude",
+    "Depots · Longitude",
+    "Depots · Loads",
+    "Scans · Parcels",
+    "Scans · Planned"
+  ],
+  "hours": {
+    "2026-11-01T06Z": 30,
+    "2026-11-01T05Z": 8,
+    "2026-11-01T08Z": 21
+  }
+}

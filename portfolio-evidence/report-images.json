@@ -1,0 +1,15 @@
+{
+  "image": "6cfa043086ebf121387cd19ea2a2644d58e32a80cd867d9fa4c64f7b7e2bb9f3",
+  "width": 960,
+  "height": 646,
+  "bytes": 37822,
+  "formats": [
+    "png",
+    "jpeg",
+    "webp"
+  ],
+  "fitModes": 4,
+  "invalidReplacementPreserved": true,
+  "packageCopies": 1,
+  "independentDestination": true
+}

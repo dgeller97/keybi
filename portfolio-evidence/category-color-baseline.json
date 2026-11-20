@@ -1,0 +1,27 @@
+{
+  "report": "Visual Gallery",
+  "page": "Compare groupings",
+  "task": "Give East its own color on a single revenue series",
+  "marks": [
+    {
+      "region": "East",
+      "value": 863,
+      "fill": "rgb(67, 133, 107)"
+    },
+    {
+      "region": "West",
+      "value": 868,
+      "fill": "rgb(67, 133, 107)"
+    }
+  ],
+  "colors": [
+    {
+      "label": "Accent color",
+      "value": "#43856b"
+    },
+    {
+      "label": "Dispatch revenue",
+      "value": "#43856b"
+    }
+  ]
+}

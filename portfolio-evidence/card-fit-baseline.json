@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Monthly forecast",
+    "value": "$6,500.00",
+    "calloutWidth": 280.2696228027344,
+    "overflowRight": 32.9576416015625,
+    "font": "54px"
+  },
+  {
+    "title": "Above forecast",
+    "value": "-$3,172.00",
+    "calloutWidth": 283.96661376953125,
+    "overflowRight": 36.65460205078125,
+    "font": "54px"
+  },
+  {
+    "title": "Posted departments variance",
+    "value": "$28.00",
+    "calloutWidth": 195.1632080078125,
+    "overflowRight": -96.141845703125,
+    "font": "54px"
+  }
+]

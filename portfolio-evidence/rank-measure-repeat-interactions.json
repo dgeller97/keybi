@@ -1,0 +1,123 @@
+[
+  {
+    "mode": "displayed",
+    "metric": "Billed revenue",
+    "ms": 56.79999998211861,
+    "dates": [
+      "2025-12-02",
+      "2025-06-03",
+      "2025-11-10"
+    ],
+    "markCount": 6
+  },
+  {
+    "mode": "displayed",
+    "metric": "Profit",
+    "ms": 56.80000001192093,
+    "dates": [
+      "2025-12-02",
+      "2025-06-03",
+      "2025-11-10"
+    ],
+    "markCount": 6
+  },
+  {
+    "mode": "hidden",
+    "metric": "Daily margin for ranking",
+    "ms": 73,
+    "dates": [
+      "2025-04-28",
+      "2025-04-03",
+      "2025-12-21"
+    ],
+    "markCount": 3
+  },
+  {
+    "mode": "hidden",
+    "metric": "Profit",
+    "ms": 54.5,
+    "dates": [
+      "2025-12-02",
+      "2025-06-03",
+      "2025-11-10"
+    ],
+    "markCount": 3
+  },
+  {
+    "mode": "legend",
+    "metric": "Daily margin for ranking",
+    "ms": 56.099999994039536,
+    "dates": [
+      "2025-04-28",
+      "2025-04-03",
+      "2025-12-21"
+    ],
+    "markCount": 36
+  },
+  {
+    "mode": "legend",
+    "metric": "Profit",
+    "ms": 56.900000005960464,
+    "dates": [
+      "2025-12-02",
+      "2025-06-03",
+      "2025-11-10"
+    ],
+    "markCount": 36
+  },
+  {
+    "mode": "legend",
+    "metric": "Daily margin for ranking",
+    "ms": 56.900000005960464,
+    "dates": [
+      "2025-04-28",
+      "2025-04-03",
+      "2025-12-21"
+    ],
+    "markCount": 36
+  },
+  {
+    "mode": "cutoff",
+    "include": true,
+    "ms": 46.5,
+    "cutoff": 5,
+    "cutoffCount": 2843,
+    "dates": [
+      "2025-12-02",
+      "2025-07-02",
+      "2025-11-12",
+      "2025-01-15",
+      "2025-03-19",
+      "2025-06-14"
+    ]
+  },
+  {
+    "mode": "cutoff",
+    "include": false,
+    "ms": 64.39999997615814,
+    "cutoff": 5,
+    "cutoffCount": 2843,
+    "dates": [
+      "2025-12-02",
+      "2025-07-02",
+      "2025-11-12",
+      "2025-01-15",
+      "2025-03-19"
+    ]
+  },
+  {
+    "mode": "cutoff",
+    "include": true,
+    "ms": 64.30000001192093,
+    "cutoff": 5,
+    "cutoffCount": 2843,
+    "dates": [
+      "2025-12-02",
+      "2025-07-02",
+      "2025-11-12",
+      "2025-01-15",
+      "2025-03-19",
+      "2025-06-14"
+    ]
+  }
+]

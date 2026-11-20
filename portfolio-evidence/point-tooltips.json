@@ -1,0 +1,32 @@
+{
+  "march": [
+    [
+      "Within target",
+      "23"
+    ],
+    [
+      "Closed routine encounters",
+      "39"
+    ],
+    [
+      "90th percentile wait (min)",
+      "62"
+    ],
+    [
+      "Attainment",
+      "58.97%"
+    ]
+  ],
+  "east": [
+    [
+      "Order count",
+      "74",
+      "41"
+    ],
+    [
+      "Revenue target",
+      "800",
+      "420"
+    ]
+  ]
+}

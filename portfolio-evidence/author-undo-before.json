@@ -1,0 +1,10 @@
+{
+  "command": "Ctrl+Z",
+  "unsavedTitle": "Weekly transfer margins",
+  "remaining": [
+    "Total units"
+  ],
+  "selectedUnits": 14,
+  "afterRemoval": 31,
+  "afterShortcut": 31
+}

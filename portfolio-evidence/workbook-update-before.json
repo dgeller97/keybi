@@ -1,0 +1,5 @@
+{
+  "accept": ".csv,text/csv,.parquet",
+  "message": "CSV parse error: record 0 (line 1, field: 0, byte: 0): invalid utf-8: invalid UTF-8 in field 0 near byte index 14",
+  "unchanged": 112.25
+}

@@ -1,0 +1,59 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/0b460c17-b020-4e5e-9b02-df49e7c1de6f",
+  "automatic": {
+    "Region": 122,
+    "Channel": 60,
+    "2026-01-01 / Dispatch revenue": 74,
+    "2026-01-01 / Dispatch orders": 63,
+    "2026-02-01 / Dispatch revenue": 74,
+    "2026-02-01 / Dispatch orders": 63,
+    "2026-03-01 / Dispatch revenue": 74,
+    "2026-03-01 / Dispatch orders": 63,
+    "Total / Dispatch revenue": 78,
+    "Total / Dispatch orders": 63
+  },
+  "reopened": {
+    "Region": 122,
+    "Channel": 60,
+    "2026-01-01 / Dispatch revenue": 74,
+    "2026-01-01 / Dispatch orders": 63,
+    "2026-02-01 / Dispatch revenue": 134,
+    "2026-02-01 / Dispatch orders": 63,
+    "2026-03-01 / Dispatch revenue": 74,
+    "2026-03-01 / Dispatch orders": 63,
+    "Total / Dispatch revenue": 78,
+    "Total / Dispatch orders": 63
+  },
+  "pinned": {
+    "scrollLeft": 148,
+    "scrollTop": 0,
+    "viewportWidth": 608,
+    "headings": [
+      "Region",
+      "Channel"
+    ],
+    "path": [
+      "East",
+      "Online"
+    ],
+    "headersVisible": [
+      true,
+      true
+    ],
+    "labelsVisible": [
+      true,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": 0,
+    "labels": [
+      "East",
+      "Online"
+    ]
+  },
+  "selected": [
+    "$478.00",
+    "33"
+  ],
+  "queryRequests": 0
+}

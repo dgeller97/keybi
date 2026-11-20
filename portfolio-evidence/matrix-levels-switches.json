@@ -1,0 +1,38 @@
+[
+  {
+    "action": "add",
+    "heading": "Category / Product",
+    "ms": 31.900000005960464,
+    "rows": 133
+  },
+  {
+    "action": "reverse",
+    "heading": "Product / Category",
+    "ms": 59.70000001788139,
+    "rows": 241
+  },
+  {
+    "action": "restore",
+    "heading": "Category / Product",
+    "ms": 31.80000001192093,
+    "rows": 133
+  },
+  {
+    "action": "remove",
+    "heading": "Category",
+    "ms": 25.200000017881393,
+    "rows": 13
+  },
+  {
+    "action": "add",
+    "heading": "Category / Product",
+    "ms": 32.099999994039536,
+    "rows": 133
+  },
+  {
+    "action": "reverse",
+    "heading": "Product / Category",
+    "ms": 39,
+    "rows": 241
+  }
+]

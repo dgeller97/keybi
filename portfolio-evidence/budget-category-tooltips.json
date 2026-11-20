@@ -1,0 +1,29 @@
+{
+  "target": "Spending detail tooltip",
+  "proof": [
+    {
+      "label": "Medicine",
+      "values": [
+        "$2,200.00",
+        "$2,175.00"
+      ],
+      "selectedTotal": "$25.00"
+    },
+    {
+      "label": "Surgery",
+      "values": [
+        "$3,200.00",
+        "—"
+      ],
+      "selectedTotal": "$25.00"
+    },
+    {
+      "label": "Facilities",
+      "values": [
+        "$1,200.00",
+        "$1,153.00"
+      ],
+      "selectedTotal": "$25.00"
+    }
+  ]
+}

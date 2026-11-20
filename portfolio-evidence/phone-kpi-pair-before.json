@@ -1,0 +1,38 @@
+[
+  {
+    "width": 320,
+    "canvasTop": 200,
+    "canvasBottom": 637,
+    "cards": [
+      {
+        "value": "25",
+        "top": 258,
+        "bottom": 293
+      },
+      {
+        "value": "41",
+        "top": 626,
+        "bottom": 665
+      }
+    ],
+    "fullyVisible": 1
+  },
+  {
+    "width": 390,
+    "canvasTop": 173,
+    "canvasBottom": 637,
+    "cards": [
+      {
+        "value": "25",
+        "top": 231,
+        "bottom": 266
+      },
+      {
+        "value": "41",
+        "top": 599,
+        "bottom": 638
+      }
+    ],
+    "fullyVisible": 1
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "auto": [
+    "Period 2026-01-01 · Revenue: 430",
+    "Period 2026-02-01 · Revenue: 569",
+    "Period 2026-03-01 · Revenue: 732",
+    "Period 2026-01-01 · Orders: 36",
+    "Period 2026-02-01 · Orders: 46",
+    "Period 2026-03-01 · Orders: 55"
+  ],
+  "currency": [
+    "Period 2026-01-01 · Revenue: $430.00",
+    "Period 2026-02-01 · Revenue: $569.00",
+    "Period 2026-03-01 · Revenue: $732.00",
+    "Period 2026-01-01 · Orders: $36.00",
+    "Period 2026-02-01 · Orders: $46.00",
+    "Period 2026-03-01 · Orders: $55.00"
+  ]
+}

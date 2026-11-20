@@ -1,0 +1,99 @@
+{
+  "bookmark": "East retail contribution",
+  "values": {
+    "Share of regional revenue": [
+      {
+        "title": "Region East · Revenue: Total $863.00 (49.9%) · Selected $454.00 (52.6% of slice)",
+        "total": 863,
+        "selected": 454,
+        "base": {
+          "share": 0.4986253130449574,
+          "hole": 0,
+          "opening": "M 220 10.719999999999999"
+        },
+        "overlay": {
+          "share": 0.2622771859990705,
+          "hole": 0,
+          "opening": "M 220 10.719999999999999"
+        },
+        "label": []
+      },
+      {
+        "title": "Region West · Revenue: Total $868.00 (50.1%) · Selected —",
+        "total": 868,
+        "selected": null,
+        "base": {
+          "share": 0.501445804144436,
+          "hole": 0,
+          "opening": "M 220.51070597329075 123.27768278286558"
+        },
+        "overlay": null,
+        "label": []
+      }
+    ],
+    "Share of orders by channel": [
+      {
+        "title": "Channel Online · Orders: Total 66 (48.2%) · Selected —",
+        "total": 66,
+        "selected": null,
+        "base": {
+          "share": 0.4818065882481827,
+          "hole": 0.62,
+          "opening": "M 248.14 18.26009027501179"
+        },
+        "overlay": null,
+        "label": [
+          "Online · 48.2%"
+        ]
+      },
+      {
+        "title": "Channel Retail · Orders: Total 71 (51.8%) · Selected 41 (57.7% of slice)",
+        "total": 71,
+        "selected": 41,
+        "base": {
+          "share": 0.5182500856817793,
+          "hole": 0.62,
+          "opening": "M 197.62088317919225 118.63926345641114"
+        },
+        "overlay": {
+          "share": 0.2992721311537267,
+          "hole": 0.62,
+          "opening": "M 197.62088317919225 118.63926345641114"
+        },
+        "label": [
+          "Retail · 51.8%"
+        ]
+      }
+    ]
+  },
+  "paired": [
+    {
+      "title": "Region East · Average of Revenue: Total $143.83 (49.9%) · Selected $151.33 (100.0% of selected)",
+      "total": 143.83333333333334,
+      "selected": 151.33333333333334,
+      "base": {
+        "share": 0.4986246978733302,
+        "hole": 0,
+        "opening": "M 110 9.36"
+      },
+      "overlay": {
+        "share": 1.0001416711495525,
+        "hole": 0,
+        "opening": "M 330 9.36"
+      },
+      "label": []
+    },
+    {
+      "title": "Region West · Average of Revenue: Total $144.67 (50.1%) · Selected —",
+      "total": 144.66666666666666,
+      "selected": null,
+      "base": {
+        "share": 0.5014455570431229,
+        "hole": 0,
+        "opening": "M 110.44591491697774 107.63797675817368"
+      },
+      "overlay": null,
+      "label": []
+    }
+  ]
+}

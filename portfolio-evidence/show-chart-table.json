@@ -1,0 +1,74 @@
+{
+  "gallery": {
+    "header": [
+      "Region",
+      "Channel",
+      "Revenue",
+      "Selected · Revenue"
+    ],
+    "rows": [
+      [
+        "East",
+        "Online",
+        "409",
+        "—"
+      ],
+      [
+        "East",
+        "Retail",
+        "454",
+        "—"
+      ],
+      [
+        "West",
+        "Online",
+        "478",
+        "478"
+      ],
+      [
+        "West",
+        "Retail",
+        "390",
+        "390"
+      ]
+    ],
+    "queries": 0,
+    "beside": true,
+    "sortedCsv": [
+      "\"Region\",\"Channel\",\"Revenue\",\"Selected · Revenue\"",
+      "\"West\",\"Online\",\"478\",\"478\"",
+      "\"West\",\"Retail\",\"390\",\"390\"",
+      "\"East\",\"Online\",\"409\",\"\"",
+      "\"East\",\"Retail\",\"454\",\"\""
+    ]
+  },
+  "hospital": {
+    "header": [
+      "Month",
+      "Visits",
+      "Within 45 minutes"
+    ],
+    "rows": [
+      [
+        "2026-01",
+        "37",
+        "56.76%"
+      ],
+      [
+        "2026-02",
+        "37",
+        "56.76%"
+      ],
+      [
+        "2026-03",
+        "39",
+        "58.97%"
+      ],
+      [
+        "2026-04",
+        "36",
+        "55.56%"
+      ]
+    ]
+  }
+}

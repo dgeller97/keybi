@@ -1,0 +1,50 @@
+{
+  "spec": {
+    "report": "Budget vs. Actual",
+    "page": "Forecast review",
+    "visual": "Department forecast review",
+    "measure": "Actual less forecast",
+    "scope": "all"
+  },
+  "checks": [
+    {
+      "path": [
+        "Facilities"
+      ],
+      "amount": "$73.00",
+      "band": "high",
+      "fill": "rgb(170, 64, 46)",
+      "label": "Above upper threshold, unfavorable",
+      "width": 14.13800048828125
+    },
+    {
+      "path": [
+        "Medicine"
+      ],
+      "amount": "-$44.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Below lower threshold, favorable",
+      "width": 14.13800048828125
+    },
+    {
+      "path": [
+        "Surgery"
+      ],
+      "amount": "-$80.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Below lower threshold, favorable",
+      "width": 14.13800048828125
+    },
+    {
+      "path": [],
+      "amount": "-$51.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Below lower threshold, favorable",
+      "width": 14.137939453125
+    }
+  ],
+  "formattingQueries": 0
+}

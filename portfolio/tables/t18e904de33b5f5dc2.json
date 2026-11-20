@@ -1,0 +1,1 @@
+{"id":"t18e904de33b5f5dc2","name":"Pipeline","columns":[{"name":"Office","numeric":false},{"name":"Latitude","numeric":true},{"name":"Longitude","numeric":true},{"name":"Stage","numeric":false},{"name":"Deals","numeric":true}],"rows":9}

@@ -1,0 +1,1 @@
+{"id":"t18e9489b6d94faa42","name":"Purchase lines","columns":[{"name":"Order","numeric":false},{"name":"Center","numeric":false},{"name":"Ordered on","numeric":false},{"name":"Quantity","numeric":true},{"name":"Unit cost","numeric":true},{"name":"Line amount","numeric":true}],"rows":5}

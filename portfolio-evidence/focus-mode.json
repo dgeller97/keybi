@@ -1,0 +1,36 @@
+[
+  {
+    "viewport": 390,
+    "before": {
+      "width": 174.63999938964844,
+      "height": 86.57998657226562,
+      "axisLabelHeight": 5.54998779296875
+    },
+    "focused": {
+      "width": 380,
+      "height": 454,
+      "axisLabelHeight": 15
+    },
+    "focusResizeReturnQueries": 0,
+    "selectedRevenue": 454,
+    "dispatchRecords": 3,
+    "reportWrites": 0
+  },
+  {
+    "viewport": 1440,
+    "before": {
+      "width": 660.7999877929688,
+      "height": 327.5999755859375,
+      "axisLabelHeight": 21
+    },
+    "focused": {
+      "width": 1398,
+      "height": 671,
+      "axisLabelHeight": 15
+    },
+    "focusResizeReturnQueries": 0,
+    "selectedRevenue": 454,
+    "dispatchRecords": 3,
+    "reportWrites": 0
+  }
+]

@@ -1,0 +1,302 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/892f5307-9dea-4706-94d7-4924749ea6a9",
+  "All": {
+    "amount": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 216,
+        "start": 0,
+        "end": 216
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 214,
+        "start": 216,
+        "end": 430
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 298,
+        "start": 0,
+        "end": 298
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 271,
+        "start": 298,
+        "end": 569
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 349,
+        "start": 0,
+        "end": 349
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 383,
+        "start": 349,
+        "end": 732
+      }
+    ],
+    "share": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 216,
+        "start": 0,
+        "end": 0.5023255813953489
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 214,
+        "start": 0.5023255813953489,
+        "end": 1
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 298,
+        "start": 0,
+        "end": 0.523725834797891
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 271,
+        "start": 0.523725834797891,
+        "end": 1
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 349,
+        "start": 0,
+        "end": 0.476775956284153
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 383,
+        "start": 0.476775956284153,
+        "end": 1
+      }
+    ]
+  },
+  "Online": {
+    "amount": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 96,
+        "start": 0,
+        "end": 96
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 84,
+        "start": 96,
+        "end": 180
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 144,
+        "start": 0,
+        "end": 144
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 154,
+        "start": 144,
+        "end": 298
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 169,
+        "start": 0,
+        "end": 169
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 240,
+        "start": 169,
+        "end": 409
+      }
+    ],
+    "share": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 96,
+        "start": 0,
+        "end": 0.5333333333333333
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 84,
+        "start": 0.5333333333333333,
+        "end": 1
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 144,
+        "start": 0,
+        "end": 0.48322147651006714
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 154,
+        "start": 0.48322147651006714,
+        "end": 1
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 169,
+        "start": 0,
+        "end": 0.4132029339853301
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 240,
+        "start": 0.4132029339853301,
+        "end": 1
+      }
+    ]
+  },
+  "Retail": {
+    "amount": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 120,
+        "start": 0,
+        "end": 120
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 130,
+        "start": 120,
+        "end": 250
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 154,
+        "start": 0,
+        "end": 154
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 117,
+        "start": 154,
+        "end": 271
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 180,
+        "start": 0,
+        "end": 180
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 143,
+        "start": 180,
+        "end": 323
+      }
+    ],
+    "share": [
+      {
+        "date": "2026-01-01",
+        "region": "East",
+        "amount": 120,
+        "start": 0,
+        "end": 0.48
+      },
+      {
+        "date": "2026-01-01",
+        "region": "West",
+        "amount": 130,
+        "start": 0.48,
+        "end": 1
+      },
+      {
+        "date": "2026-02-01",
+        "region": "East",
+        "amount": 154,
+        "start": 0,
+        "end": 0.5682656826568265
+      },
+      {
+        "date": "2026-02-01",
+        "region": "West",
+        "amount": 117,
+        "start": 0.5682656826568265,
+        "end": 1
+      },
+      {
+        "date": "2026-03-01",
+        "region": "East",
+        "amount": 180,
+        "start": 0,
+        "end": 0.5572755417956656
+      },
+      {
+        "date": "2026-03-01",
+        "region": "West",
+        "amount": 143,
+        "start": 0.5572755417956656,
+        "end": 1
+      }
+    ]
+  },
+  "bandClick": {
+    "x": 555.1662786246509,
+    "y": 497.78487934753093,
+    "element": "path",
+    "label": "Period 2026-03-01, Region West · West: $383.00",
+    "filteredRevenue": 383
+  },
+  "marchChannels": [
+    {
+      "region": "East",
+      "channel": "Retail",
+      "amount": 180
+    },
+    {
+      "region": "East",
+      "channel": "Online",
+      "amount": 169
+    },
+    {
+      "region": "West",
+      "channel": "Retail",
+      "amount": 143
+    },
+    {
+      "region": "West",
+      "channel": "Online",
+      "amount": 240
+    }
+  ]
+}

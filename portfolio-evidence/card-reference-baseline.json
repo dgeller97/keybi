@@ -1,0 +1,10 @@
+{
+  "month": "2026-02",
+  "card": "Posted departments variance",
+  "before": "$28.00",
+  "after": "2",
+  "wells": [
+    "metrics"
+  ],
+  "expression": "SUMX(VALUES('Department'[Department]), CALCULATE(IF(ISBLANK(SUM('Transaction'[Actual])), BLANK(), 1)))"
+}

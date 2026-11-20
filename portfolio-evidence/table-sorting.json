@@ -1,0 +1,40 @@
+{
+  "visits": 108,
+  "pageSize": 25,
+  "topVisit": [
+    "W066",
+    "Review",
+    "2026-03",
+    "04 · 60+",
+    "77"
+  ],
+  "periodP90": [
+    [
+      "2026-04",
+      45.800000000000004
+    ],
+    [
+      "2026-03",
+      44.800000000000004
+    ],
+    [
+      "2026-02",
+      39.800000000000004
+    ],
+    [
+      "2026-01",
+      36.000000000000014
+    ]
+  ],
+  "bookmark": "Longest waits",
+  "savedSort": [
+    "Wait descending",
+    "Service ascending"
+  ],
+  "orderedRowsChecked": [
+    "wait descending",
+    "wait ascending",
+    "service ascending",
+    "service descending"
+  ]
+}

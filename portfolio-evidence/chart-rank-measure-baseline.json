@@ -1,0 +1,16 @@
+{
+  "ledger": [
+    "East$863.0074",
+    "West$868.0063"
+  ],
+  "visible": [
+    "Region West · Dispatch revenue: $868.00",
+    "Region West · Dispatch orders: 63"
+  ],
+  "sortOptions": [
+    "Category",
+    "Value · highest first",
+    "Value · lowest first"
+  ],
+  "rankingControl": 0
+}

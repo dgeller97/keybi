@@ -1,0 +1,9 @@
+{
+  "choices": [
+    "Import Purchase lines",
+    "Import Cost centers",
+    "Import Notes"
+  ],
+  "worksheetError": "A data column has no header.",
+  "requested": "AuthorizationLimits"
+}

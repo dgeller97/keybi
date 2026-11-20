@@ -1,0 +1,148 @@
+{
+  "months": {
+    "2026-01": [
+      {
+        "path": [
+          "Facilities"
+        ],
+        "value": "$43.00",
+        "tone": "scale",
+        "background": "rgb(236, 207, 200)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Medicine"
+        ],
+        "value": "$136.00",
+        "tone": "scale",
+        "background": "rgb(195, 102, 80)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Surgery"
+        ],
+        "value": "$110.00",
+        "tone": "scale",
+        "background": "rgb(207, 131, 113)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [],
+        "value": "$289.00",
+        "tone": "scale",
+        "background": "rgb(189, 86, 62)",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "2026-02": [
+      {
+        "path": [
+          "Facilities"
+        ],
+        "value": "$3.00",
+        "tone": "scale",
+        "background": "rgb(254, 252, 251)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Medicine"
+        ],
+        "value": "$25.00",
+        "tone": "scale",
+        "background": "rgb(244, 227, 223)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Surgery"
+        ],
+        "value": "-$3,200.00",
+        "background": "rgba(0, 0, 0, 0)",
+        "ink": "rgb(37, 49, 46)"
+      },
+      {
+        "path": [],
+        "value": "-$3,172.00",
+        "tone": "scale",
+        "background": "rgb(57, 118, 94)",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "2026-03": [
+      {
+        "path": [
+          "Facilities"
+        ],
+        "value": "-$37.00",
+        "tone": "scale",
+        "background": "rgb(206, 221, 215)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Medicine"
+        ],
+        "value": "$17.00",
+        "tone": "scale",
+        "background": "rgb(248, 236, 233)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Surgery"
+        ],
+        "value": "-$50.00",
+        "tone": "scale",
+        "background": "rgb(189, 209, 201)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [],
+        "value": "-$70.00",
+        "tone": "scale",
+        "background": "rgb(163, 191, 180)",
+        "ink": "rgb(0, 0, 0)"
+      }
+    ],
+    "2026-04": [
+      {
+        "path": [
+          "Facilities"
+        ],
+        "value": "$73.00",
+        "tone": "scale",
+        "background": "rgb(223, 173, 161)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Medicine"
+        ],
+        "value": "-$44.00",
+        "tone": "scale",
+        "background": "rgb(197, 215, 208)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [
+          "Surgery"
+        ],
+        "value": "-$80.00",
+        "tone": "scale",
+        "background": "rgb(149, 182, 169)",
+        "ink": "rgb(0, 0, 0)"
+      },
+      {
+        "path": [],
+        "value": "-$51.00",
+        "tone": "scale",
+        "background": "rgb(188, 208, 200)",
+        "ink": "rgb(0, 0, 0)"
+      }
+    ]
+  },
+  "formattingQueries": 0
+}

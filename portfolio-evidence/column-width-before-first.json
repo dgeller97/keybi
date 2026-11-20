@@ -1,0 +1,41 @@
+{
+  "rows": 241,
+  "columns": 15,
+  "label": "B / Billed revenue",
+  "baseline": {
+    "Product": 66,
+    "ProductKey": 79,
+    "A / Billed revenue": 122,
+    "B / Billed revenue": 122,
+    "C / Billed revenue": 122,
+    "D / Billed revenue": 122,
+    "E / Billed revenue": 122,
+    "F / Billed revenue": 122,
+    "G / Billed revenue": 122,
+    "H / Billed revenue": 122,
+    "I / Billed revenue": 122,
+    "J / Billed revenue": 122,
+    "K / Billed revenue": 122,
+    "L / Billed revenue": 122,
+    "Total / Billed revenue": 122
+  },
+  "records": [
+    {
+      "width": 187,
+      "ms": 317.90000000596046
+    },
+    {
+      "width": 65,
+      "ms": 193.5
+    },
+    {
+      "width": 242,
+      "ms": 227.2999999821186
+    },
+    {
+      "width": "Auto",
+      "ms": 139.30000001192093
+    }
+  ],
+  "queryRequests": 0
+}

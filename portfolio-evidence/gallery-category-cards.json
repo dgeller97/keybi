@@ -1,0 +1,108 @@
+{
+  "page": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/6959b193-fdf9-4108-808c-7d82a143a867",
+  "periods": {
+    "2026-01-01": {
+      "West › Retail": {
+        "amount": "$130.00",
+        "color": "rgb(50, 106, 81)",
+        "refs": [
+          "10"
+        ]
+      },
+      "East › Retail": {
+        "amount": "$120.00",
+        "color": "rgb(50, 106, 81)",
+        "refs": [
+          "12"
+        ]
+      },
+      "East › Online": {
+        "amount": "$96.00",
+        "color": "",
+        "refs": [
+          "8"
+        ]
+      },
+      "West › Online": {
+        "amount": "$84.00",
+        "color": "",
+        "refs": [
+          "6"
+        ]
+      }
+    },
+    "2026-02-01": {
+      "East › Retail": {
+        "amount": "$154.00",
+        "color": "rgb(50, 106, 81)",
+        "refs": [
+          "14"
+        ]
+      },
+      "West › Online": {
+        "amount": "$154.00",
+        "color": "",
+        "refs": [
+          "11"
+        ]
+      },
+      "East › Online": {
+        "amount": "$144.00",
+        "color": "",
+        "refs": [
+          "12"
+        ]
+      },
+      "West › Retail": {
+        "amount": "$117.00",
+        "color": "rgb(166, 62, 49)",
+        "refs": [
+          "9"
+        ]
+      }
+    },
+    "2026-03-01": {
+      "West › Online": {
+        "amount": "$240.00",
+        "color": "",
+        "refs": [
+          "16"
+        ]
+      },
+      "East › Retail": {
+        "amount": "$180.00",
+        "color": "rgb(50, 106, 81)",
+        "refs": [
+          "15"
+        ]
+      },
+      "East › Online": {
+        "amount": "$169.00",
+        "color": "",
+        "refs": [
+          "13"
+        ]
+      },
+      "West › Retail": {
+        "amount": "$143.00",
+        "color": "rgb(166, 62, 49)",
+        "refs": [
+          "11"
+        ]
+      }
+    }
+  },
+  "layout": {
+    "wide": [
+      2,
+      2
+    ],
+    "narrow": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "layoutChangeQueries": 0
+  }
+}

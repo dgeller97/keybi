@@ -1,0 +1,24 @@
+{
+  "fullyEnclosed": [
+    "Revenue",
+    "Profit",
+    "Transactions"
+  ],
+  "partialCardExcluded": [
+    "Revenue"
+  ],
+  "afterCtrl": [
+    "Profit",
+    "Transactions"
+  ],
+  "afterEscape": [
+    "Revenue",
+    "Profit",
+    "Transactions"
+  ],
+  "values": [
+    "$1,000.00",
+    "$130.00",
+    "2"
+  ]
+}

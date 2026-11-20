@@ -1,0 +1,46 @@
+[
+  {
+    "period": "2026-01",
+    "callout": "$289.00",
+    "refs": [
+      [
+        "Departments posted",
+        "3"
+      ]
+    ],
+    "fontSize": 32
+  },
+  {
+    "period": "2026-02",
+    "callout": "$28.00",
+    "refs": [
+      [
+        "Departments posted",
+        "2"
+      ]
+    ],
+    "fontSize": 32
+  },
+  {
+    "period": "2026-03",
+    "callout": "-$70.00",
+    "refs": [
+      [
+        "Departments posted",
+        "3"
+      ]
+    ],
+    "fontSize": 32
+  },
+  {
+    "period": "2026-04",
+    "callout": "-$51.00",
+    "refs": [
+      [
+        "Departments posted",
+        "3"
+      ]
+    ],
+    "fontSize": 32
+  }
+]

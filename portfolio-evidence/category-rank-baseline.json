@@ -1,0 +1,19 @@
+{
+  "period": "2026-02",
+  "rows": [
+    [
+      "Facilities",
+      "$3.00"
+    ],
+    [
+      "Medicine",
+      "$25.00"
+    ],
+    [
+      "Surgery",
+      "—"
+    ]
+  ],
+  "sortControls": 0,
+  "limitControls": 0
+}

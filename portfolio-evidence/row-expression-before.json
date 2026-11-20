@@ -1,0 +1,4 @@
+{
+  "formula": "SUMX('Lines', 'Lines'[Qty] * 'Lines'[Rate])",
+  "error": "Unexpected character at position 28."
+}

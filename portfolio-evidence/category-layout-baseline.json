@@ -1,0 +1,25 @@
+{
+  "rows": [
+    {
+      "label": "West › Online",
+      "top": 46,
+      "width": 225
+    },
+    {
+      "label": "East › Retail",
+      "top": 46,
+      "width": 225
+    },
+    {
+      "label": "East › Online",
+      "top": 46,
+      "width": 225
+    },
+    {
+      "label": "West › Retail",
+      "top": 46,
+      "width": 225
+    }
+  ],
+  "layoutControl": 0
+}

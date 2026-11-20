@@ -1,0 +1,35 @@
+{
+  "queries": 0,
+  "samples": [
+    {
+      "maximum": 50,
+      "visible": 41,
+      "ms": 53.80000001192093
+    },
+    {
+      "maximum": 80,
+      "visible": 71,
+      "ms": 42
+    },
+    {
+      "maximum": 100,
+      "visible": 91,
+      "ms": 45.79999998211861
+    },
+    {
+      "maximum": 50,
+      "visible": 41,
+      "ms": 41.79999998211861
+    },
+    {
+      "maximum": 80,
+      "visible": 71,
+      "ms": 42.599999994039536
+    },
+    {
+      "maximum": 100,
+      "visible": 91,
+      "ms": 41.5
+    }
+  ]
+}

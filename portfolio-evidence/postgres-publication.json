@@ -1,0 +1,11 @@
+{
+  "version": "18.7",
+  "metadata": "PostgreSQL",
+  "scram": true,
+  "draftRows": 1,
+  "publicationRows": 1,
+  "restartedDatabase": true,
+  "restartedApp": true,
+  "pinnedEast": 251,
+  "readerWest": 149
+}

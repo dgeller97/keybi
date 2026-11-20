@@ -1,0 +1,1 @@
+{"id":"t18e8fe78ceb7c8ec0","name":"Sales","columns":[{"name":"SaleID","numeric":true},{"name":"ProductKey","numeric":true},{"name":"DateKey","numeric":true},{"name":"Revenue","numeric":true},{"name":"Profit","numeric":true}],"rows":2}

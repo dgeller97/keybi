@@ -1,0 +1,38 @@
+{
+  "settings": [
+    "Set background by value",
+    "Show status icons",
+    "Lower threshold",
+    "Upper threshold",
+    "Icon layout\n      Before valueAfter value\n      Icon only",
+    "Lower values are favorable",
+    "Icons apply toValues and totalsDetail values onlyTotals only",
+    "Show data bars"
+  ],
+  "marks": [
+    {
+      "department": "Facilities",
+      "actual": "$1,273.00",
+      "actualBand": "high",
+      "varianceBand": "high"
+    },
+    {
+      "department": "Medicine",
+      "actual": "$2,256.00",
+      "actualBand": "high",
+      "varianceBand": "low"
+    },
+    {
+      "department": "Surgery",
+      "actual": "$3,270.00",
+      "actualBand": "high",
+      "varianceBand": "low"
+    },
+    {
+      "department": "Grand total",
+      "actual": "$6,799.00",
+      "actualBand": "high",
+      "varianceBand": "low"
+    }
+  ]
+}

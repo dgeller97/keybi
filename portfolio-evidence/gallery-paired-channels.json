@@ -1,0 +1,92 @@
+{
+  "bookmark": "March paired channels",
+  "checks": [
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 312,
+      "orders": 24,
+      "average": "$13.00"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 312,
+      "orders": 24,
+      "average": "$13.00"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "West › Retail"
+      ],
+      "revenue": 143,
+      "orders": 11,
+      "average": "$13.00"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [],
+      "revenue": 732,
+      "orders": 55,
+      "average": "$13.31"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail",
+        "West › Online"
+      ],
+      "revenue": 552,
+      "orders": 40,
+      "average": "$13.80"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 312,
+      "orders": 24,
+      "average": "$13.00"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 312,
+      "orders": 24,
+      "average": "$13.00"
+    },
+    {
+      "period": "2026-02-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 261,
+      "orders": 21,
+      "average": "$12.43"
+    },
+    {
+      "period": "2026-03-01",
+      "selected": [
+        "East › Online",
+        "West › Retail"
+      ],
+      "revenue": 312,
+      "orders": 24,
+      "average": "$13.00"
+    }
+  ]
+}

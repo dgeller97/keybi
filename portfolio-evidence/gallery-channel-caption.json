@@ -1,0 +1,9 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/read/page/9893a036-9cff-4c42-83d7-7e77093d51a8",
+  "expression": "\"Revenue · \" & SELECTEDVALUE(Dispatch[Channel], \"All channels\")",
+  "sums": {
+    "All channels": 1731,
+    "Retail": 844,
+    "Online": 887
+  }
+}

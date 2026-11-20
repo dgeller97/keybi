@@ -1,0 +1,25 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/5a88ad18-9eb8-45fe-88af-a4e8142852b1",
+  "marks": [
+    "Period 2026-01-01 · Revenue: $430.00",
+    "Period 2026-02-01 · Revenue: $569.00",
+    "Period 2026-03-01 · Revenue: $732.00",
+    "Period 2026-01-01 · Orders: 36",
+    "Period 2026-02-01 · Orders: 46",
+    "Period 2026-03-01 · Orders: 55"
+  ],
+  "axes": [
+    "$0",
+    "$250",
+    "$500",
+    "$750",
+    "0",
+    "25",
+    "50",
+    "75",
+    "Jan 1",
+    "Feb 1",
+    "Mar 1"
+  ],
+  "queryRequests": 0
+}

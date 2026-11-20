@@ -1,0 +1,1 @@
+{"id":"t18e9010447a4105c3","name":"Transaction","columns":[{"name":"Transaction","numeric":false},{"name":"PeriodKey","numeric":true},{"name":"DepartmentKey","numeric":true},{"name":"Actual","numeric":true}],"rows":32}

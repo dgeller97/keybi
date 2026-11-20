@@ -1,0 +1,25 @@
+{
+  "categorical": [
+    {
+      "timestamp": "2026-11-01T01:45:00-05:00",
+      "value": 16,
+      "x": 159.5
+    },
+    {
+      "timestamp": "2026-11-01T01:50:00-04:00",
+      "value": 8,
+      "x": 370.5
+    },
+    {
+      "timestamp": "2026-11-01T03:05:00-05:00",
+      "value": 21,
+      "x": 581.5
+    },
+    {
+      "timestamp": "2026-11-01T06:05:00Z",
+      "value": 14,
+      "x": 792.5
+    }
+  ],
+  "message": "A continuous date axis needs distinct ISO dates (YYYY-MM-DD) or months (YYYY-MM). Filter blank values or use a categorical axis."
+}

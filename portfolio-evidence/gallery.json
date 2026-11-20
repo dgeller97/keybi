@@ -1,0 +1,47 @@
+{
+  "title": "Visual Gallery",
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81",
+  "verified": [
+    {
+      "name": "Comparisons",
+      "types": [
+        "clusteredBar",
+        "stackedBar",
+        "percentBar",
+        "clusteredColumn",
+        "stackedColumn",
+        "percentColumn"
+      ]
+    },
+    {
+      "name": "Trends",
+      "types": [
+        "line",
+        "area",
+        "combo",
+        "indicator"
+      ]
+    },
+    {
+      "name": "Distributions",
+      "types": [
+        "scatter",
+        "bubble",
+        "pie",
+        "donut",
+        "dot"
+      ]
+    },
+    {
+      "name": "Detail",
+      "types": [
+        "list",
+        "dropdown",
+        "dateRange",
+        "table",
+        "matrix"
+      ]
+    }
+  ],
+  "checked": "2026-11-18T05:50:02.903Z"
+}

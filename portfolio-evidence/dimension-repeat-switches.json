@@ -1,0 +1,44 @@
+[
+  {
+    "member": "Date",
+    "ms": 37.69999998807907,
+    "groups": 365,
+    "top": "2025-12-02",
+    "rows": 25
+  },
+  {
+    "member": "Category",
+    "ms": 25.5,
+    "groups": 12,
+    "top": "D",
+    "rows": 12
+  },
+  {
+    "member": "Date",
+    "ms": 19.899999976158142,
+    "groups": 365,
+    "top": "2025-12-02",
+    "rows": 25
+  },
+  {
+    "member": "Category",
+    "ms": 25.400000005960464,
+    "groups": 12,
+    "top": "D",
+    "rows": 12
+  },
+  {
+    "member": "Date",
+    "ms": 25.69999998807907,
+    "groups": 365,
+    "top": "2025-12-02",
+    "rows": 25
+  },
+  {
+    "member": "Category",
+    "ms": 26.69999998807907,
+    "groups": 12,
+    "top": "D",
+    "rows": 12
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "bookmark": "February clinical departments",
+  "source": "Department cards",
+  "target": "Ledger evidence",
+  "rows": [
+    [
+      "T12",
+      "Medicine",
+      "2026-02",
+      "724"
+    ],
+    [
+      "T13",
+      "Medicine",
+      "2026-02",
+      "725"
+    ],
+    [
+      "T14",
+      "Medicine",
+      "2026-02",
+      "726"
+    ]
+  ]
+}

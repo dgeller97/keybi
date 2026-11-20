@@ -1,0 +1,60 @@
+{
+  "worldClusterWidthPx": 0.5406530968757011,
+  "fittedClusterWidthPx": 553.6519665158698,
+  "pacificWidthPx": 743.9698556289617,
+  "panScreenPx": [
+    40,
+    15
+  ],
+  "queriesDuringNavigation": 0,
+  "selectionLoads": 41,
+  "networkTotals": {
+    "Lakeshore": 88,
+    "Pacific": 62
+  },
+  "pacific": [
+    {
+      "name": "East quay",
+      "lat": -16.76,
+      "lng": -179.85,
+      "size": 34,
+      "radius": 8.010000228881836,
+      "x": 1031.701432209489,
+      "y": 493.5318627499047,
+      "visible": true
+    },
+    {
+      "name": "South quay",
+      "lat": -16.9,
+      "lng": 179.72,
+      "size": 12,
+      "radius": 4.7627081871032715,
+      "x": 287.7315765805273,
+      "y": 735.7545992394093,
+      "visible": true
+    },
+    {
+      "name": "West quay",
+      "lat": -16.72,
+      "lng": 179.8,
+      "size": 16,
+      "radius": 5.497954845428467,
+      "x": 426.14456365424826,
+      "y": 424.3253601025512,
+      "visible": true
+    }
+  ],
+  "gridLabels": [
+    "179.7°E",
+    "179.8°E",
+    "179.9°E",
+    "180°",
+    "179.9°W",
+    "179.8°W",
+    "16.9°S",
+    "16.85°S",
+    "16.8°S",
+    "16.75°S",
+    "16.7°S"
+  ]
+}

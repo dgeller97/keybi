@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e900ae81e95b242/read/page/e3f296c3-d9b8-42e1-a226-8ba801e345a3",
+  "proof": [
+    {
+      "status": "Open",
+      "count": 25,
+      "median": 41,
+      "sites": {
+        "Harbor": 8,
+        "Ridge": 8,
+        "Cedar": 9
+      }
+    },
+    {
+      "status": "Closed",
+      "count": 149,
+      "median": 42,
+      "sites": {
+        "Harbor": 50,
+        "Ridge": 50,
+        "Cedar": 49
+      }
+    },
+    {
+      "status": "All values",
+      "count": 174,
+      "median": 41,
+      "sites": {
+        "Harbor": 58,
+        "Ridge": 58,
+        "Cedar": 58
+      }
+    }
+  ]
+}

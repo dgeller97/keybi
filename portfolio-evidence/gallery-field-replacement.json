@@ -1,0 +1,68 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/84d5da57-87f5-42ac-8b36-7d591a703a58",
+  "chart": "Regional contribution by channel",
+  "measure": "Dispatch revenue",
+  "selected": "Online/West",
+  "pairs": {
+    "Retail/East": {
+      "orders": 41,
+      "revenue": 454
+    },
+    "Online/East": {
+      "orders": 33,
+      "revenue": 409
+    },
+    "Retail/West": {
+      "orders": 30,
+      "revenue": 390
+    },
+    "Online/West": {
+      "orders": 33,
+      "revenue": 478
+    }
+  },
+  "contrast": [
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(67, 133, 107)",
+      "ratio": 4.805977239744445
+    },
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(215, 134, 58)",
+      "ratio": 7.360551153627088
+    },
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(67, 133, 107)",
+      "ratio": 4.805977239744445
+    },
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(215, 134, 58)",
+      "ratio": 7.360551153627088
+    }
+  ],
+  "custom": [
+    {
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(20, 39, 72)",
+      "ratio": 14.856444225571563
+    },
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(244, 217, 138)",
+      "ratio": 15.138756611245505
+    },
+    {
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(20, 39, 72)",
+      "ratio": 14.856444225571563
+    },
+    {
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(244, 217, 138)",
+      "ratio": 15.138756611245505
+    }
+  ]
+}

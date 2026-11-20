@@ -1,0 +1,12 @@
+{
+  "period": "2026-02",
+  "cells": [
+    "Surgery",
+    "—",
+    "$3,200.00",
+    "-$3,200.00"
+  ],
+  "icon": "Actual less forecast -$3,200.00 · Below lower threshold, favorable",
+  "expression": "IF(ISBLANK(SUM('Transaction'[Actual])), BLANK(), [Actual less forecast])",
+  "error": "Choose a supported aggregate function."
+}

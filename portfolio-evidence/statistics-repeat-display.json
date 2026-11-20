@@ -1,0 +1,23 @@
+{
+  "queries": 0,
+  "samples": [
+    {
+      "percentile": 50,
+      "groups": 12,
+      "value": 0.22478722360348058,
+      "displayMs": 30.700000017881393
+    },
+    {
+      "percentile": 90,
+      "groups": 12,
+      "value": 0.22549660778567066,
+      "displayMs": 31.30000001192093
+    },
+    {
+      "percentile": 99,
+      "groups": 12,
+      "value": 0.2258677918957069,
+      "displayMs": 31.19999998807907
+    }
+  ]
+}

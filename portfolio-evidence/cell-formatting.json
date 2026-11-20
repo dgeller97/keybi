@@ -1,0 +1,39 @@
+{
+  "statementColored": {
+    "all": 16,
+    "detail": 12,
+    "totals": 4
+  },
+  "pivotTotals": 8,
+  "queryCountForFormatting": 0,
+  "forecast": [
+    [
+      [
+        "Facilities"
+      ],
+      "$73.00",
+      "above"
+    ],
+    [
+      [
+        "Medicine"
+      ],
+      "-$44.00",
+      "below"
+    ],
+    [
+      [
+        "Surgery"
+      ],
+      "-$80.00",
+      "below"
+    ],
+    [
+      [],
+      "-$51.00",
+      "below"
+    ]
+  ],
+  "equalAndBlank": "uncolored",
+  "percentThreshold": 4
+}

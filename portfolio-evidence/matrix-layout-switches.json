@@ -1,0 +1,38 @@
+[
+  {
+    "mode": "tabular",
+    "ms": 37.89999997615814,
+    "rows": 241,
+    "queryRequests": 0
+  },
+  {
+    "mode": "outline",
+    "ms": 35.19999998807907,
+    "rows": 241,
+    "queryRequests": 0
+  },
+  {
+    "mode": "compact",
+    "ms": 34.099999994039536,
+    "rows": 241,
+    "queryRequests": 0
+  },
+  {
+    "mode": "tabular",
+    "ms": 44.5,
+    "rows": 241,
+    "queryRequests": 0
+  },
+  {
+    "mode": "outline",
+    "ms": 38.599999994039536,
+    "rows": 241,
+    "queryRequests": 0
+  },
+  {
+    "mode": "compact",
+    "ms": 39.60000002384186,
+    "rows": 241,
+    "queryRequests": 0
+  }
+]

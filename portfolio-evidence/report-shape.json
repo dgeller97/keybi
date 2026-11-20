@@ -1,0 +1,16 @@
+{
+  "shape": "rounded",
+  "fill": "#dbe9dd",
+  "opacity": 0.85,
+  "outline": "#50785f",
+  "width": 3,
+  "all": 1731,
+  "east": 863,
+  "west": 868,
+  "frontToBack": [
+    "Dispatch revenue",
+    "Revenue by region",
+    "Revenue backdrop"
+  ],
+  "transferred": true
+}

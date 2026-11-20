@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "format": "currency",
+      "ms": 13.599999994039536,
+      "marks": 24
+    },
+    {
+      "format": "number",
+      "ms": 13.599999994039536,
+      "marks": 24
+    },
+    {
+      "format": "currency",
+      "ms": 15.5,
+      "marks": 24
+    },
+    {
+      "format": "Use visual format",
+      "ms": 13.5,
+      "marks": 24
+    }
+  ],
+  "queryRequests": 0
+}

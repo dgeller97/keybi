@@ -1,0 +1,67 @@
+{
+  "report": "Budget vs. Actual",
+  "page": "Forecast review",
+  "title": "Actual and forecast by department",
+  "proof": [
+    {
+      "filter": "2026-04",
+      "marks": [
+        {
+          "key": "Facilities",
+          "value": 1273,
+          "color": "#a63e31"
+        },
+        {
+          "key": "Medicine",
+          "value": 2256,
+          "color": "#43856b"
+        },
+        {
+          "key": "Surgery",
+          "value": 3270,
+          "color": "#43856b"
+        }
+      ]
+    },
+    {
+      "filter": "2026-04",
+      "marks": [
+        {
+          "key": "Facilities",
+          "value": 1273,
+          "color": "#a63e31"
+        },
+        {
+          "key": "Medicine",
+          "value": 2256,
+          "color": "#43856b"
+        },
+        {
+          "key": "Surgery",
+          "value": 3270,
+          "color": "#43856b"
+        }
+      ]
+    },
+    {
+      "filter": "2026-01",
+      "marks": [
+        {
+          "key": "Facilities",
+          "value": 1093,
+          "color": "#a63e31"
+        },
+        {
+          "key": "Medicine",
+          "value": 2136,
+          "color": "#a63e31"
+        },
+        {
+          "key": "Surgery",
+          "value": 3210,
+          "color": "#a63e31"
+        }
+      ]
+    }
+  ]
+}

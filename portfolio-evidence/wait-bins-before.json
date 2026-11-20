@@ -1,0 +1,19 @@
+{
+  "axisWell": "Wait\n▾\n⇄\n×\n+ Add field\nVisit · Record\nVisit · Service\nVisit · Period\nVisit · Wait\nVisit · Wait band\nVisit · Visits\nShow items with no data",
+  "calculationOperators": [
+    "+",
+    "-",
+    "*",
+    "/"
+  ],
+  "distinctWaits": 46,
+  "tenMinuteCounts": {
+    "0": 3,
+    "10": 26,
+    "20": 37,
+    "30": 26,
+    "40": 8,
+    "60": 5,
+    "70": 3
+  }
+}

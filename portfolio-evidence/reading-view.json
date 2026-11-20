@@ -1,0 +1,36 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/read/page/3388559d-9130-4c15-8d28-55d37c1f1d8c",
+  "allRevenue": 1731,
+  "retailEastRevenue": 454,
+  "dispatchRecords": 3,
+  "bookmarkedMarchRevenue": 732,
+  "savedReportWrites": 0,
+  "draftTitlePreserved": true,
+  "hospital": [
+    {
+      "cohort": "Routine",
+      "status": "Open",
+      "count": 25
+    },
+    {
+      "cohort": "Training",
+      "status": "Open",
+      "count": 3
+    },
+    {
+      "cohort": "Training",
+      "status": "All values",
+      "count": 18
+    },
+    {
+      "cohort": "All values",
+      "status": "All values",
+      "count": 192
+    },
+    {
+      "cohort": "Routine",
+      "status": "Closed",
+      "count": 149
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"id":"t18e900ae33124dd01","name":"Encounter","columns":[{"name":"Encounter","numeric":false},{"name":"CalendarKey","numeric":true},{"name":"Site","numeric":false},{"name":"Cohort","numeric":false},{"name":"Status","numeric":false},{"name":"Minutes","numeric":true},{"name":"MetTarget","numeric":true},{"name":"Visits","numeric":true}],"rows":192}

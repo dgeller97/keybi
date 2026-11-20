@@ -1,0 +1,23 @@
+{
+  "report": "Visual Gallery",
+  "page": "Compare groupings",
+  "title": "Dispatch by selected group",
+  "point": "East",
+  "points": [
+    {
+      "category": "East",
+      "measure": 0,
+      "value": 863,
+      "fill": "#243f76",
+      "text": "#fff"
+    },
+    {
+      "category": "West",
+      "measure": 0,
+      "value": 868,
+      "fill": "#43856b",
+      "text": "#000"
+    }
+  ],
+  "queries": 0
+}

@@ -1,0 +1,14 @@
+{
+  "cleared": "CALCULATE([Dispatch revenue], REMOVEFILTERS('Dispatch'[Channel]))",
+  "ratio": "DIVIDE([Dispatch revenue], [Revenue across channels])",
+  "targets": [
+    "$200.00",
+    "$350.00",
+    "57.14%"
+  ],
+  "error": "Circular measure reference: Dispatch revenue → Channel share of region → Dispatch revenue.",
+  "onlineOnlyBaseline": {
+    "expression": "CALCULATE([Dispatch revenue], 'Dispatch'[Channel] = \"Online\")",
+    "message": "Unexpected character at position 51."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "spec": {
+    "report": "Budget vs. Actual",
+    "page": "Forecast review",
+    "visual": "Department forecast review",
+    "measure": "Actual",
+    "source": "Posted variance",
+    "scope": "all"
+  },
+  "checks": [
+    {
+      "path": [
+        "Facilities"
+      ],
+      "amount": "$1,273.00",
+      "band": "high",
+      "fill": "rgb(170, 64, 46)",
+      "label": "Posted variance $73.00 · Above upper threshold, unfavorable",
+      "width": 14.137939453125,
+      "tone": null
+    },
+    {
+      "path": [
+        "Medicine"
+      ],
+      "amount": "$2,256.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Posted variance -$44.00 · Below lower threshold, favorable",
+      "width": 14.137939453125,
+      "tone": null
+    },
+    {
+      "path": [
+        "Surgery"
+      ],
+      "amount": "$3,270.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Posted variance -$80.00 · Below lower threshold, favorable",
+      "width": 14.137939453125,
+      "tone": null
+    },
+    {
+      "path": [],
+      "amount": "$6,799.00",
+      "band": "low",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Posted variance -$51.00 · Below lower threshold, favorable",
+      "width": 14.137969970703125,
+      "tone": null
+    }
+  ],
+  "formattingQueries": 0,
+  "hiddenSource": true
+}

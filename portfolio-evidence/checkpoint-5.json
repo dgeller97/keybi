@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sales and Margin Overview",
+    "url": "http://127.0.0.1:4317/#r18e8fe78cf53ad203",
+    "checked": "2026-11-18T20:03:27.359Z"
+  },
+  {
+    "title": "Hospital Operations",
+    "url": "http://127.0.0.1:4317/#r18e900ae81e95b242",
+    "checked": "2026-11-18T20:03:30.976Z"
+  },
+  {
+    "title": "Budget vs. Actual",
+    "url": "http://127.0.0.1:4317/#r18e901048e56e6504",
+    "checked": "2026-11-18T20:03:34.943Z"
+  },
+  {
+    "title": "Wait-Time Performance",
+    "url": "http://127.0.0.1:4317/#r18e9013cd2b05b3c2",
+    "checked": "2026-11-18T20:03:38.426Z"
+  },
+  {
+    "title": "Service Tail Review",
+    "url": "http://127.0.0.1:4317/#r18e901edd90bb2e01",
+    "checked": "2026-11-18T20:03:41.359Z"
+  }
+]

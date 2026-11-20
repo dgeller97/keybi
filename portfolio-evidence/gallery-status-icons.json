@@ -1,0 +1,56 @@
+{
+  "spec": {
+    "report": "Visual Gallery",
+    "page": "Channel comparison",
+    "visual": "Selected revenue compared with Online",
+    "measure": "Variance from Online",
+    "scope": "detail"
+  },
+  "checks": [
+    {
+      "path": [
+        "East",
+        "Online"
+      ],
+      "amount": "$0.00",
+      "band": "middle",
+      "fill": "rgb(92, 103, 98)",
+      "label": "Within thresholds",
+      "width": 14.137939453125
+    },
+    {
+      "path": [
+        "East",
+        "Retail"
+      ],
+      "amount": "$11.00",
+      "band": "high",
+      "fill": "rgb(32, 112, 78)",
+      "label": "Above upper threshold, favorable",
+      "width": 14.137939453125
+    },
+    {
+      "path": [
+        "West",
+        "Online"
+      ],
+      "amount": "$0.00",
+      "band": "middle",
+      "fill": "rgb(92, 103, 98)",
+      "label": "Within thresholds",
+      "width": 14.137939453125
+    },
+    {
+      "path": [
+        "West",
+        "Retail"
+      ],
+      "amount": "-$97.00",
+      "band": "low",
+      "fill": "rgb(170, 64, 46)",
+      "label": "Below lower threshold, unfavorable",
+      "width": 14.137939453125
+    }
+  ],
+  "formattingQueries": 0
+}

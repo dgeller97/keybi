@@ -1,0 +1,38 @@
+{
+  "expression": "CALCULATE(SUM('Dispatch'[Revenue]), REMOVEFILTERS('Dispatch'[Channel]))",
+  "error": "Choose a supported aggregate function.",
+  "expected": [
+    {
+      "region": "West",
+      "channel": "Online",
+      "period": "All periods",
+      "numerator": 478,
+      "denominator": 868,
+      "share": "55.07%"
+    },
+    {
+      "region": "West",
+      "channel": "Online",
+      "period": "2026-01-01",
+      "numerator": 84,
+      "denominator": 214,
+      "share": "39.25%"
+    },
+    {
+      "region": "West",
+      "channel": "Online",
+      "period": "2026-02-01",
+      "numerator": 154,
+      "denominator": 271,
+      "share": "56.83%"
+    },
+    {
+      "region": "West",
+      "channel": "Online",
+      "period": "2026-03-01",
+      "numerator": 240,
+      "denominator": 383,
+      "share": "62.66%"
+    }
+  ]
+}

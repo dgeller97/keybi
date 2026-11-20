@@ -1,0 +1,37 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/a9303106-c458-4584-9437-b641d040daea",
+  "checks": [
+    {
+      "group": "Region",
+      "value": "Revenue",
+      "totals": {
+        "East": 863,
+        "West": 868
+      }
+    },
+    {
+      "group": "Channel",
+      "value": "Revenue",
+      "totals": {
+        "Online": 887,
+        "Retail": 844
+      }
+    },
+    {
+      "group": "Channel",
+      "value": "Orders",
+      "totals": {
+        "Online": 66,
+        "Retail": 71
+      }
+    },
+    {
+      "group": "Region",
+      "value": "Orders",
+      "totals": {
+        "East": 74,
+        "West": 63
+      }
+    }
+  ]
+}

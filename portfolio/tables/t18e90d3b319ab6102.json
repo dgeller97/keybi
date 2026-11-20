@@ -1,0 +1,1 @@
+{"id":"t18e90d3b319ab6102","name":"Depots","columns":[{"name":"Network","numeric":false},{"name":"Depot","numeric":false},{"name":"Latitude","numeric":true},{"name":"Longitude","numeric":true},{"name":"Loads","numeric":true}],"rows":6}

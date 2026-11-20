@@ -1,0 +1,47 @@
+[
+  {
+    "period": "2026-03-01",
+    "callout": "$143.00",
+    "refs": [
+      [
+        "Orders",
+        "11"
+      ],
+      [
+        "Per order",
+        "$13.00"
+      ]
+    ],
+    "fontSize": 29
+  },
+  {
+    "period": "All",
+    "callout": "$390.00",
+    "refs": [
+      [
+        "Orders",
+        "30"
+      ],
+      [
+        "Per order",
+        "$13.00"
+      ]
+    ],
+    "fontSize": 29
+  },
+  {
+    "period": "2026-03-01",
+    "callout": "$732.00",
+    "refs": [
+      [
+        "Orders",
+        "55"
+      ],
+      [
+        "Per order",
+        "$13.31"
+      ]
+    ],
+    "fontSize": 29
+  }
+]

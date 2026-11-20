@@ -1,0 +1,1 @@
+{"id":"t18e95143953045181","name":"Receiving review","columns":[{"name":"Order","numeric":false},{"name":"Center","numeric":false},{"name":"Ordered on","numeric":false},{"name":"Quantity","numeric":true},{"name":"Unit cost","numeric":true},{"name":"Line amount","numeric":true},{"name":"Receipt order","numeric":false},{"name":"Received amount","numeric":true}],"rows":6}

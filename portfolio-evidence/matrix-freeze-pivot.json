@@ -1,0 +1,83 @@
+{
+  "rows": 241,
+  "valueColumns": 13,
+  "checkedValues": 3133,
+  "frozen": {
+    "scrollLeft": 819,
+    "scrollTop": 15124,
+    "viewportWidth": 938,
+    "headings": [
+      "Product",
+      "ProductKey"
+    ],
+    "path": [
+      "Product 99",
+      99
+    ],
+    "headersVisible": [
+      true,
+      true
+    ],
+    "labelsVisible": [
+      true,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": 0,
+    "labels": [
+      "Product 99",
+      "99"
+    ]
+  },
+  "unfrozen": {
+    "scrollLeft": 819,
+    "scrollTop": 15124,
+    "viewportWidth": 938,
+    "headings": [
+      "Product",
+      "ProductKey"
+    ],
+    "path": [
+      "Product 99",
+      99
+    ],
+    "headersVisible": [
+      false,
+      false
+    ],
+    "labelsVisible": [
+      false,
+      false
+    ],
+    "aligned": true,
+    "leadingEdge": -842.2699966430664,
+    "labels": [
+      "Product 99",
+      "99"
+    ]
+  },
+  "queryRequests": 0,
+  "wrapChanges": [
+    {
+      "enabled": false,
+      "ms": 70.19999998807907,
+      "scrollLeft": 918
+    },
+    {
+      "enabled": true,
+      "ms": 59.79999998211861,
+      "scrollLeft": 819
+    },
+    {
+      "enabled": false,
+      "ms": 71.2000000178814,
+      "scrollLeft": 918
+    },
+    {
+      "enabled": true,
+      "ms": 74.5,
+      "scrollLeft": 819
+    }
+  ],
+  "formattingQueries": 0
+}

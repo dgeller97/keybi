@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Monthly revenue",
+    "januaryToFebruaryDays": 31,
+    "februaryToMarchDays": 28,
+    "displayedRatio": 0.903225806451613
+  },
+  {
+    "title": "Order volume by region",
+    "januaryToFebruaryDays": 31,
+    "februaryToMarchDays": 28,
+    "displayedRatio": 0.903225806451613
+  },
+  {
+    "title": "Revenue and order volume",
+    "januaryToFebruaryDays": 31,
+    "februaryToMarchDays": 28,
+    "displayedRatio": 0.9032258064516131
+  }
+]

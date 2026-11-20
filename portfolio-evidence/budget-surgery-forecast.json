@@ -1,0 +1,45 @@
+{
+  "report": "Budget vs. Actual",
+  "page": "Forecast review",
+  "title": "Actual and forecast by department",
+  "point": "Surgery › Forecast",
+  "points": [
+    {
+      "category": "Facilities",
+      "measure": 0,
+      "value": 1273,
+      "fill": "#43856b"
+    },
+    {
+      "category": "Facilities",
+      "measure": 1,
+      "value": 1200,
+      "fill": "#d7863a"
+    },
+    {
+      "category": "Medicine",
+      "measure": 0,
+      "value": 2256,
+      "fill": "#43856b"
+    },
+    {
+      "category": "Medicine",
+      "measure": 1,
+      "value": 2300,
+      "fill": "#d7863a"
+    },
+    {
+      "category": "Surgery",
+      "measure": 0,
+      "value": 3270,
+      "fill": "#43856b"
+    },
+    {
+      "category": "Surgery",
+      "measure": 1,
+      "value": 3350,
+      "fill": "#773e82"
+    }
+  ],
+  "queries": 0
+}

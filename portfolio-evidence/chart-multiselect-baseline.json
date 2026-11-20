@@ -1,0 +1,24 @@
+{
+  "labels": [
+    [
+      "Region East, Channel Online · Online: 409",
+      409
+    ],
+    [
+      "Region East, Channel Retail · Retail: 454",
+      454
+    ],
+    [
+      "Region West, Channel Online · Online: 478",
+      478
+    ],
+    [
+      "Region West, Channel Retail · Retail: 390",
+      390
+    ]
+  ],
+  "pressed": [
+    "Region West, Channel Retail · Retail: 390"
+  ],
+  "combinedLedgerRevenue": 799
+}

@@ -1,0 +1,14 @@
+{
+  "enclosed": [
+    "Authorized amount",
+    "Purchase line count",
+    "Average line amount"
+  ],
+  "selectedDepartment": "Facilities",
+  "values": [
+    "$112.25",
+    "3",
+    "$37.42"
+  ],
+  "queries": 0
+}

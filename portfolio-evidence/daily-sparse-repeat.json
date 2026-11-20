@@ -1,0 +1,30 @@
+[
+  {
+    "enabled": true,
+    "categories": 365,
+    "queryMs": 7.861800000000001,
+    "cached": false,
+    "displayMs": 15.400000005960464
+  },
+  {
+    "enabled": false,
+    "categories": 1,
+    "queryMs": 0.0045000000000000005,
+    "cached": true,
+    "displayMs": 8.800000011920929
+  },
+  {
+    "enabled": true,
+    "categories": 365,
+    "queryMs": 0.1336,
+    "cached": true,
+    "displayMs": 10.600000023841858
+  },
+  {
+    "enabled": false,
+    "categories": 1,
+    "queryMs": 0.0046,
+    "cached": true,
+    "displayMs": 9.299999982118607
+  }
+]

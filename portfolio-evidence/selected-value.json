@@ -1,0 +1,51 @@
+{
+  "expected": [
+    [
+      "B1",
+      "East",
+      "0",
+      "5",
+      "0"
+    ],
+    [
+      "B2",
+      "West",
+      "8",
+      "1",
+      "8"
+    ],
+    [
+      "B3",
+      "—",
+      "—",
+      "4",
+      "—"
+    ],
+    [
+      "B4",
+      "Several or no routes",
+      "-1",
+      "—",
+      "22"
+    ],
+    [
+      "B5",
+      "O'Brien",
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "Grand total",
+      "Several or no routes",
+      "-1",
+      "—",
+      "33"
+    ]
+  ],
+  "single": "Route · East",
+  "quoted": "Route · O'Brien",
+  "blank": "Route ·",
+  "several": "Route · Several or no routes",
+  "reopened": true
+}

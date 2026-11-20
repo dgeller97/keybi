@@ -1,0 +1,44 @@
+{
+  "bookmark": "Cedar and Harbor across months",
+  "proof": [
+    {
+      "step": "Select legends",
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "total": 99,
+      "sourceRows": 99,
+      "visiblePoints": 12
+    },
+    {
+      "step": "Reopen bookmark",
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "total": 99,
+      "sourceRows": 99,
+      "visiblePoints": 12
+    },
+    {
+      "step": "Keep all source categories with one category displayed",
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "total": 99,
+      "sourceRows": 99,
+      "visiblePoints": 3
+    },
+    {
+      "step": "Remove Harbor",
+      "selection": [
+        "Cedar"
+      ],
+      "total": 49,
+      "sourceRows": 49,
+      "visiblePoints": 3
+    }
+  ]
+}

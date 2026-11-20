@@ -1,0 +1,30 @@
+[
+  {
+    "percent": 22.47872236034806,
+    "categories": 6,
+    "queryMs": 10.9291,
+    "cached": false,
+    "displayMs": 105.59999999403954
+  },
+  {
+    "percent": 22.529997913240912,
+    "categories": 3,
+    "queryMs": 8.5027,
+    "cached": false,
+    "displayMs": 29.299999982118607
+  },
+  {
+    "percent": 22.47872236034806,
+    "categories": 6,
+    "queryMs": 0.0086,
+    "cached": true,
+    "displayMs": 12.200000017881393
+  },
+  {
+    "percent": 22.529997913240912,
+    "categories": 3,
+    "queryMs": 0.0055,
+    "cached": true,
+    "displayMs": 14.5
+  }
+]

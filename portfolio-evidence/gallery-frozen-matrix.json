@@ -1,0 +1,147 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/0b460c17-b020-4e5e-9b02-df49e7c1de6f",
+  "frozen": {
+    "scrollLeft": 151,
+    "scrollTop": 0,
+    "viewportWidth": 608,
+    "headings": [
+      "Region",
+      "Channel"
+    ],
+    "path": [
+      "East",
+      "Online"
+    ],
+    "headersVisible": [
+      true,
+      true
+    ],
+    "labelsVisible": [
+      true,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": 0,
+    "labels": [
+      "East",
+      "Online"
+    ]
+  },
+  "unfrozen": {
+    "scrollLeft": 151,
+    "scrollTop": 0,
+    "viewportWidth": 608,
+    "headings": [
+      "Region",
+      "Channel"
+    ],
+    "path": [
+      "East",
+      "Online"
+    ],
+    "headersVisible": [
+      false,
+      true
+    ],
+    "labelsVisible": [
+      false,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": -164.08200073242188,
+    "labels": [
+      "East",
+      "Online"
+    ]
+  },
+  "queryRequests": 0,
+  "selected": {
+    "scrollLeft": 151,
+    "scrollTop": 0,
+    "viewportWidth": 608,
+    "headings": [
+      "Region",
+      "Channel"
+    ],
+    "path": [
+      "East",
+      "Online"
+    ],
+    "headersVisible": [
+      true,
+      true
+    ],
+    "labelsVisible": [
+      true,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": 0,
+    "labels": [
+      "East",
+      "Online"
+    ]
+  },
+  "amount": "$478.00",
+  "orders": 33,
+  "singleLine": [
+    [
+      "[\"East\",\"Online\"]",
+      30
+    ],
+    [
+      "[\"East\",\"Retail\"]",
+      30
+    ],
+    [
+      "[\"East\"]",
+      30
+    ],
+    [
+      "[\"West\",\"Online\"]",
+      30
+    ],
+    [
+      "[\"West\",\"Retail\"]",
+      30
+    ],
+    [
+      "[\"West\"]",
+      30
+    ],
+    [
+      "[]",
+      30
+    ]
+  ],
+  "wrapped": [
+    [
+      "[\"East\",\"Online\"]",
+      30
+    ],
+    [
+      "[\"East\",\"Retail\"]",
+      30
+    ],
+    [
+      "[\"East\"]",
+      45
+    ],
+    [
+      "[\"West\",\"Online\"]",
+      30
+    ],
+    [
+      "[\"West\",\"Retail\"]",
+      30
+    ],
+    [
+      "[\"West\"]",
+      45
+    ],
+    [
+      "[]",
+      45
+    ]
+  ]
+}

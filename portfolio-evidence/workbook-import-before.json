@@ -1,0 +1,11 @@
+{
+  "accept": ".csv,text/csv,.parquet",
+  "status": 400,
+  "message": "CSV parse error: record 0 (line 1, field: 0, byte: 0): invalid utf-8: invalid UTF-8 in field 0 near byte index 14",
+  "importedTables": 0,
+  "expectedWorksheets": [
+    "Purchase lines",
+    "Cost centers",
+    "Notes"
+  ]
+}

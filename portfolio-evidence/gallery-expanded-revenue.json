@@ -1,0 +1,25 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/ec4c6d09-3925-4171-8218-45fe1d2e479d",
+  "combinations": [
+    {
+      "region": "East",
+      "channel": "Online",
+      "revenue": 409
+    },
+    {
+      "region": "East",
+      "channel": "Retail",
+      "revenue": 454
+    },
+    {
+      "region": "West",
+      "channel": "Online",
+      "revenue": 478
+    },
+    {
+      "region": "West",
+      "channel": "Retail",
+      "revenue": 390
+    }
+  ]
+}

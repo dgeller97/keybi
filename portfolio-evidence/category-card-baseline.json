@@ -1,0 +1,11 @@
+{
+  "period": "2026-02",
+  "field": "Department.Department",
+  "before": "$28.00",
+  "wells": [
+    "metrics",
+    "references"
+  ],
+  "after": "Connect these tables in Model view.",
+  "binding": "Count of Department\n▾\ncount\n⇄\n×"
+}

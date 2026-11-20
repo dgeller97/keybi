@@ -1,0 +1,189 @@
+{
+  "selections": [
+    {
+      "date": "2025-01-01",
+      "ms": 95.59999999403954,
+      "categories": 12,
+      "denominator": "$1,371,374.96",
+      "categoryA": "$114,822.66",
+      "iterated": "$730,883.32",
+      "qualifyingCategories": 6
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 103.59999999403954,
+      "categories": 12,
+      "denominator": "$1,447,990.02",
+      "categoryA": "$135,966.23",
+      "iterated": "$398,147.27",
+      "qualifyingCategories": 3
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 101.2000000178814,
+      "categories": 12,
+      "denominator": "$1,379,906.79",
+      "categoryA": "$116,381.61",
+      "iterated": "$613,021.12",
+      "qualifyingCategories": 5
+    },
+    {
+      "date": "All",
+      "ms": 51.69999998807907,
+      "categories": 12,
+      "denominator": "$504,604,610.30",
+      "categoryA": "$42,150,419.86",
+      "iterated": "$337,086,170.62",
+      "qualifyingCategories": 8
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 52.900000005960464,
+      "categories": 12,
+      "denominator": "$1,371,374.96",
+      "categoryA": "$114,822.66",
+      "iterated": "$730,883.32",
+      "qualifyingCategories": 6
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 53,
+      "categories": 12,
+      "denominator": "$1,447,990.02",
+      "categoryA": "$135,966.23",
+      "iterated": "$398,147.27",
+      "qualifyingCategories": 3
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 53.39999997615814,
+      "categories": 12,
+      "denominator": "$1,379,906.79",
+      "categoryA": "$116,381.61",
+      "iterated": "$613,021.12",
+      "qualifyingCategories": 5
+    }
+  ],
+  "afterBaseEdit": {
+    "expression": "SUM('Sales'[Profit])",
+    "total": "$113,480,392.39",
+    "checkedRows": 13
+  },
+  "statusIcons": {
+    "paints": [
+      {
+        "selection": "detail",
+        "ms": 42.19999998807907
+      },
+      {
+        "selection": "all",
+        "ms": 38.400000005960464
+      },
+      {
+        "selection": "totals",
+        "ms": 36.5
+      },
+      {
+        "selection": "all",
+        "ms": 38.19999998807907
+      }
+    ],
+    "queries": 0
+  },
+  "hiddenSource": [
+    {
+      "date": "2025-01-01",
+      "ms": 107.30000001192093,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 108.59999999403954,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 108.30000001192093,
+      "checkedRows": 13
+    },
+    {
+      "date": "All",
+      "ms": 57.900000005960464,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 59,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 58.900000005960464,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 58.900000005960464,
+      "checkedRows": 13
+    }
+  ],
+  "colorScale": [
+    {
+      "date": "All",
+      "ms": 65.40000000596046,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 57.099999994039536,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 57.599999994039536,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 59.900000005960464,
+      "checkedRows": 13
+    }
+  ],
+  "categoryCards": [
+    {
+      "date": "2025-01-01",
+      "ms": 75.19999998807907,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 73.5,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 75.19999998807907,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "All",
+      "ms": 58.900000005960464,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 58.19999998807907,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 58.5,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 58.70000001788139,
+      "verifiedTiles": 12
+    }
+  ]
+}

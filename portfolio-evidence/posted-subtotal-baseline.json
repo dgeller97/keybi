@@ -1,0 +1,32 @@
+{
+  "period": "2026-02",
+  "cells": [
+    [
+      "Facilities",
+      "$1,153.00",
+      "$1,150.00",
+      "$3.00"
+    ],
+    [
+      "Medicine",
+      "$2,175.00",
+      "$2,150.00",
+      "$25.00"
+    ],
+    [
+      "Surgery",
+      "—",
+      "$3,200.00",
+      "-$3,200.00"
+    ],
+    [
+      "Grand total",
+      "$3,328.00",
+      "$6,500.00",
+      "-$3,172.00"
+    ]
+  ],
+  "postedVariance": 28,
+  "expression": "SUMX(VALUES('Department'[Department]), [Posted variance])",
+  "error": "Choose a supported aggregate function."
+}

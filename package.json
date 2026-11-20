@@ -1,0 +1,13 @@
+{
+  "name": "keybi-checks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sample": "node scripts/generate.mjs 2",
+    "benchmark:data": "node scripts/generate.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.56.1"
+  }
+}

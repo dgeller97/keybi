@@ -1,0 +1,53 @@
+[
+  {
+    "selection": [
+      "Billed revenue",
+      "Margin"
+    ],
+    "ms": 35.30000001192093,
+    "marks": 24,
+    "rows": 12
+  },
+  {
+    "selection": [
+      "Margin"
+    ],
+    "ms": 16.5,
+    "marks": 12,
+    "rows": 12
+  },
+  {
+    "selection": [
+      "Margin",
+      "Billed revenue"
+    ],
+    "ms": 33.5,
+    "marks": 24,
+    "rows": 12
+  },
+  {
+    "selection": [
+      "Billed revenue"
+    ],
+    "ms": 24.80000001192093,
+    "marks": 12,
+    "rows": 12
+  },
+  {
+    "selection": [
+      "Billed revenue",
+      "Margin"
+    ],
+    "ms": 25.400000005960464,
+    "marks": 24,
+    "rows": 12
+  },
+  {
+    "selection": [
+      "Margin"
+    ],
+    "ms": 24.5,
+    "marks": 12,
+    "rows": 12
+  }
+]

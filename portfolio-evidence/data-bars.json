@@ -1,0 +1,96 @@
+{
+  "2026-03": [
+    {
+      "value": 120.15,
+      "left": 12,
+      "width": 57.6719,
+      "axis": 12,
+      "cellWidth": 108,
+      "color": "rgb(57, 118, 94)"
+    },
+    {
+      "value": 70.1,
+      "left": 12,
+      "width": 33.6406,
+      "axis": 12,
+      "cellWidth": 108,
+      "color": "rgb(57, 118, 94)"
+    }
+  ],
+  "2026-04": [
+    {
+      "value": 45,
+      "left": 11.3594,
+      "width": 20.4531,
+      "axis": 11.3594,
+      "cellWidth": 102,
+      "color": "rgb(57, 118, 94)"
+    },
+    {
+      "value": 30.21,
+      "left": 11.3594,
+      "width": 13.7188,
+      "axis": 11.3594,
+      "cellWidth": 102,
+      "color": "rgb(57, 118, 94)"
+    },
+    {
+      "value": 185.4,
+      "left": 11.3594,
+      "width": 84.2656,
+      "axis": 11.3594,
+      "cellWidth": 102,
+      "color": "rgb(57, 118, 94)"
+    },
+    {
+      "value": -5.25,
+      "left": 8.96875,
+      "width": 2.375,
+      "axis": 11.3594,
+      "cellWidth": 102,
+      "color": "rgb(174, 80, 53)"
+    },
+    {
+      "value": 94.6,
+      "left": 11.3594,
+      "width": 42.9844,
+      "axis": 11.3594,
+      "cellWidth": 102,
+      "color": "rgb(57, 118, 94)"
+    }
+  ],
+  "clippedTotal": {
+    "value": 349.96,
+    "left": 0,
+    "width": 362.109,
+    "axis": 0,
+    "cellWidth": 362,
+    "color": "rgb(57, 118, 94)"
+  },
+  "gallery": {
+    "2026-01-01": {
+      "value": 430,
+      "left": 0,
+      "width": 100.188,
+      "axis": 0,
+      "cellWidth": 186,
+      "color": "rgb(57, 118, 94)"
+    },
+    "2026-02-01": {
+      "value": 569,
+      "left": 0,
+      "width": 132.578,
+      "axis": 0,
+      "cellWidth": 186,
+      "color": "rgb(57, 118, 94)"
+    },
+    "2026-03-01": {
+      "value": 732,
+      "left": 0,
+      "width": 170.547,
+      "axis": 0,
+      "cellWidth": 186,
+      "color": "rgb(57, 118, 94)"
+    }
+  }
+}

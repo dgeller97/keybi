@@ -1,0 +1,184 @@
+{
+  "original": {
+    "orderLines": 5,
+    "amount": 349.96,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$75.21"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "$180.15"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$94.60"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$349.96"
+      ]
+    ]
+  },
+  "appended": {
+    "orderLines": 8,
+    "amount": 607.31,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$325.21"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "$167.65"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$114.45"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$607.31"
+      ]
+    ]
+  },
+  "reopenedAppend": {
+    "orderLines": 8,
+    "amount": 607.31,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$325.21"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "$167.65"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$114.45"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$607.31"
+      ]
+    ]
+  },
+  "rejected": {
+    "orderLines": 8,
+    "amount": 607.31,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$325.21"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "$167.65"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$114.45"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$607.31"
+      ]
+    ]
+  },
+  "replaced": {
+    "orderLines": 3,
+    "amount": 257.35,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$250.00"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "-$12.50"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$19.85"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$257.35"
+      ]
+    ]
+  },
+  "reopenedReplace": {
+    "orderLines": 3,
+    "amount": 257.35,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$250.00"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "-$12.50"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$19.85"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$257.35"
+      ]
+    ]
+  },
+  "independentOriginal": {
+    "orderLines": 5,
+    "amount": 349.96,
+    "departmentTotals": [
+      [
+        "Facilities",
+        "$1,273.00",
+        "$75.21"
+      ],
+      [
+        "Medicine",
+        "$2,256.00",
+        "$180.15"
+      ],
+      [
+        "Surgery",
+        "$3,270.00",
+        "$94.60"
+      ],
+      [
+        "Grand total",
+        "$6,799.00",
+        "$349.96"
+      ]
+    ]
+  }
+}

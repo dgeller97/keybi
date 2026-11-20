@@ -1,0 +1,35 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e9013cd2b05b3c2/read/page/7e358b8f-cc52-4ff6-b504-3e46424c4836",
+  "visits": 108,
+  "distinctWaits": 46,
+  "most": {
+    "wait": 32,
+    "visits": 6,
+    "x": 394
+  },
+  "scale": 10.625,
+  "first": {
+    "wait": 7,
+    "visits": 1,
+    "x": 128.375
+  },
+  "last": {
+    "wait": 77,
+    "visits": 1,
+    "x": 872.125
+  },
+  "threshold": {
+    "axis": "x",
+    "domain": [
+      0,
+      80
+    ],
+    "value": 60,
+    "coordinate": 691.5,
+    "axisEnds": [
+      54,
+      904
+    ]
+  },
+  "longWaits": 8
+}

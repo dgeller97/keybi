@@ -1,0 +1,12 @@
+{
+  "selected": 2000,
+  "mounted": 150,
+  "selectedMounted": 150,
+  "removed": [
+    "Rack-0151",
+    "Rack-1999"
+  ],
+  "remaining": 1998,
+  "originalUnits": 7995,
+  "correctedUnits": 7987
+}

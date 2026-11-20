@@ -1,0 +1,26 @@
+[
+  [
+    "Facilities",
+    "$1,273.00",
+    "above",
+    "high"
+  ],
+  [
+    "Medicine",
+    "$2,256.00",
+    "above",
+    "low"
+  ],
+  [
+    "Surgery",
+    "$3,270.00",
+    "above",
+    "low"
+  ],
+  [
+    "Grand total",
+    "$6,799.00",
+    "above",
+    "low"
+  ]
+]

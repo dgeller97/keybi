@@ -1,0 +1,1 @@
+{"id":"t18e94b7712e048500","name":"AuthorizationLimits","columns":[{"name":"Center","numeric":false},{"name":"Single order limit","numeric":true},{"name":"Approval owner","numeric":false}],"rows":3}

@@ -1,0 +1,31 @@
+{
+  "initial": [
+    [
+      "P-01",
+      "Facilities lead",
+      "$124.50",
+      "$100.00",
+      "$24.50"
+    ],
+    [
+      "P-02",
+      "Surgery lead",
+      "$80.00",
+      "$75.00",
+      "$5.00"
+    ]
+  ],
+  "revised": [
+    [
+      "P-02",
+      "Surgery lead",
+      "$80.00",
+      "$70.00",
+      "$10.00"
+    ]
+  ],
+  "beforeTotal": 29.5,
+  "afterTotal": 10,
+  "restored": true,
+  "refreshedAfterTransfer": true
+}

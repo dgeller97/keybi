@@ -1,0 +1,136 @@
+{
+  "results": {
+    "2026-03": {
+      "departmentTotals": [
+        [
+          "Facilities",
+          1213,
+          120.15
+        ],
+        [
+          "Medicine",
+          2217,
+          70.1
+        ],
+        [
+          "Surgery",
+          3250,
+          null
+        ],
+        [
+          "Grand total",
+          6680,
+          190.25
+        ]
+      ],
+      "detailRows": [
+        [
+          "9007199254740993",
+          "2026-03-02",
+          "North Mill",
+          "001",
+          "true",
+          "$120.15"
+        ],
+        [
+          "9007199254740994",
+          "2026-03-09",
+          "Lake Medical",
+          "002",
+          "true",
+          "$70.10"
+        ],
+        [
+          "9007199254740995",
+          "2026-03-17",
+          "(Blank)",
+          "(Blank)",
+          "false",
+          "—"
+        ]
+      ]
+    },
+    "2026-04": {
+      "departmentTotals": [
+        [
+          "Facilities",
+          1273,
+          75.21
+        ],
+        [
+          "Medicine",
+          2256,
+          180.15
+        ],
+        [
+          "Surgery",
+          3270,
+          94.6
+        ],
+        [
+          "Grand total",
+          6799,
+          349.96
+        ]
+      ],
+      "detailRows": [
+        [
+          "18446744073709551615",
+          "2026-04-18",
+          "(Blank)",
+          "(Blank)",
+          "false",
+          "$94.60"
+        ],
+        [
+          "9007199254740996",
+          "2026-04-02",
+          "North Mill",
+          "001",
+          "true",
+          "$45.00"
+        ],
+        [
+          "9007199254740997",
+          "2026-04-07",
+          "Civic Works",
+          "003",
+          "true",
+          "$30.21"
+        ],
+        [
+          "9007199254740998",
+          "2026-04-10",
+          "Lake Medical",
+          "002",
+          "true",
+          "$185.40"
+        ],
+        [
+          "9007199254740999",
+          "2026-04-12",
+          "Lake Medical",
+          "002",
+          "true",
+          "-$5.25"
+        ]
+      ]
+    }
+  },
+  "types": "Parquet field types\n\nPeriodKey · Int32 → Number\n\nDepartmentKey · Int64 → Number\n\nPurchaseOrder · UInt64 → Text\n\nOrderedOn · Date32 → Text\n\nLineAmount · Decimal128(18, 2) → Number\n\nApproved · Boolean → Text\n\nVendor.Name · Utf8 → Text\n\nVendor.Ref · Utf8 → Text\n\nAuditValue · Decimal128(20, 2) → Text",
+  "headings": {
+    "Posted spending and commitments": [
+      "Department",
+      "Posted spending",
+      "Open commitments"
+    ],
+    "Purchase order lines": [
+      "Order number",
+      "Order date",
+      "Supplier",
+      "Supplier code",
+      "Approved",
+      "Amount"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "target": "Channel detail tooltip",
+  "proof": [
+    {
+      "label": "West › Retail",
+      "values": [
+        "$143.00",
+        "11"
+      ],
+      "selectedTotal": "$312.00"
+    },
+    {
+      "label": "East › Online",
+      "values": [
+        "$169.00",
+        "13"
+      ],
+      "selectedTotal": "$312.00"
+    },
+    {
+      "label": "West › Online",
+      "values": [
+        "$240.00",
+        "16"
+      ],
+      "selectedTotal": "$312.00"
+    }
+  ]
+}

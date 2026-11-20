@@ -1,0 +1,42 @@
+{
+  "bookmark": "March across sites",
+  "proof": [
+    {
+      "step": "Select axis label",
+      "values": [
+        "2026-03"
+      ],
+      "sum": 39,
+      "records": 39,
+      "visibleMarks": 12
+    },
+    {
+      "step": "Reopen bookmark",
+      "values": [
+        "2026-03"
+      ],
+      "sum": 39,
+      "records": 39,
+      "visibleMarks": 12
+    },
+    {
+      "step": "Add a second label",
+      "values": [
+        "2026-03",
+        "2026-04"
+      ],
+      "sum": 75,
+      "records": 75,
+      "visibleMarks": 12
+    },
+    {
+      "step": "Remove the first label",
+      "values": [
+        "2026-04"
+      ],
+      "sum": 36,
+      "records": 36,
+      "visibleMarks": 12
+    }
+  ]
+}

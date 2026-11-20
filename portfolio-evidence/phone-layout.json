@@ -1,0 +1,76 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e900ae81e95b242/read/page/e3f296c3-d9b8-42e1-a226-8ba801e345a3",
+  "phone": {
+    "width": 368,
+    "height": 256,
+    "label": 15
+  },
+  "pairs": [
+    {
+      "width": 320,
+      "count": {
+        "x": 11,
+        "y": 211,
+        "width": 145,
+        "height": 96
+      },
+      "wait": {
+        "x": 164,
+        "y": 211,
+        "width": 145,
+        "height": 100
+      },
+      "plot": {
+        "x": 11,
+        "y": 319,
+        "width": 298,
+        "height": 256
+      },
+      "fullyVisibleCards": 2
+    },
+    {
+      "width": 390,
+      "count": {
+        "x": 11,
+        "y": 184,
+        "width": 180,
+        "height": 96
+      },
+      "wait": {
+        "x": 199,
+        "y": 184,
+        "width": 180,
+        "height": 100
+      },
+      "plot": {
+        "x": 11,
+        "y": 292,
+        "width": 368,
+        "height": 256
+      },
+      "fullyVisibleCards": 2
+    }
+  ],
+  "desktopAt390": {
+    "width": 170.1999969482422,
+    "height": 133.20001220703125,
+    "label": 5.54998779296875
+  },
+  "order": [
+    "Encounter count",
+    "Median wait (minutes)",
+    "Encounters by site",
+    "Status by site"
+  ],
+  "layoutQueries": 0,
+  "openVisits": 25,
+  "closedVisits": 149,
+  "closedHarbor": 50,
+  "restoredScroll": 218,
+  "currentTab": {
+    "x": 234.421875,
+    "y": 638,
+    "width": 155.3125,
+    "height": 37
+  }
+}

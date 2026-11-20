@@ -1,0 +1,4 @@
+{
+  "expression": "SELECTEDVALUE(Dispatch[Route], \"Several or no routes\")",
+  "error": "Choose a supported aggregate function."
+}

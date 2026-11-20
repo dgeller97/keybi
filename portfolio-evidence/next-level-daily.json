@@ -1,0 +1,42 @@
+[
+  {
+    "category": "All",
+    "dates": 365,
+    "displayMs": 64.09999999403954
+  },
+  {
+    "category": "A",
+    "dates": 365,
+    "displayMs": 63.599999994039536
+  },
+  {
+    "category": "F",
+    "dates": 365,
+    "displayMs": 64
+  },
+  {
+    "category": "L",
+    "dates": 365,
+    "displayMs": 79.69999998807907
+  },
+  {
+    "category": "All",
+    "dates": 365,
+    "displayMs": 64.30000001192093
+  },
+  {
+    "category": "A",
+    "dates": 365,
+    "displayMs": 64.2999999821186
+  },
+  {
+    "category": "F",
+    "dates": 365,
+    "displayMs": 64.7000000178814
+  },
+  {
+    "category": "L",
+    "dates": 365,
+    "displayMs": 64
+  }
+]

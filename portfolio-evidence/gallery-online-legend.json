@@ -1,0 +1,103 @@
+{
+  "bookmark": "Online across regions",
+  "proof": [
+    {
+      "step": "Select legends",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Reopen bookmark",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Return from records",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Keep all source categories with one category displayed",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 2
+    },
+    {
+      "step": "stackedColumn",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "line",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "percentArea",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "clusteredBar",
+      "selection": [
+        "Online"
+      ],
+      "total": 887,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Add Retail",
+      "selection": [
+        "Online",
+        "Retail"
+      ],
+      "total": 1731,
+      "sourceRows": 12,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Remove Online",
+      "selection": [
+        "Retail"
+      ],
+      "total": 844,
+      "sourceRows": 6,
+      "visiblePoints": 4
+    },
+    {
+      "step": "Clear last series",
+      "selection": [],
+      "total": 1731,
+      "sourceRows": 12,
+      "visiblePoints": 4
+    }
+  ]
+}

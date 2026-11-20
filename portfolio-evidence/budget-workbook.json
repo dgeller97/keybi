@@ -1,0 +1,30 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e901048e56e6504/read/page/a7b59dd3-d734-43e6-90fd-12ee3abacd41",
+  "workbook": "PurchaseReview.xlsx",
+  "total": 225.75,
+  "allCount": 5,
+  "allAverage": 45.15,
+  "facilities": 112.25,
+  "facilityCount": 3,
+  "facilityAverage": 37.42,
+  "rows": [
+    [
+      "P-01",
+      "Facilities",
+      "2026-04-01",
+      "$124.50"
+    ],
+    [
+      "P-03",
+      "Facilities",
+      "2026-04-02",
+      "$0.00"
+    ],
+    [
+      "P-04",
+      "Facilities",
+      "2026-04-03",
+      "-$12.25"
+    ]
+  ]
+}

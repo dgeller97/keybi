@@ -1,0 +1,101 @@
+{
+  "bookmark": "April Cedar and Harbor",
+  "proof": [
+    {
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "counts": [
+        {
+          "m": "2026-04",
+          "met": 13,
+          "visits": 24,
+          "rate": "54.17%"
+        },
+        {
+          "m": "2026-03",
+          "met": 16,
+          "visits": 26,
+          "rate": "61.54%"
+        }
+      ]
+    },
+    {
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "counts": [
+        {
+          "m": "2026-04",
+          "met": 13,
+          "visits": 24,
+          "rate": "54.17%"
+        },
+        {
+          "m": "2026-03",
+          "met": 16,
+          "visits": 26,
+          "rate": "61.54%"
+        }
+      ]
+    },
+    {
+      "selection": [
+        "Cedar",
+        "Harbor"
+      ],
+      "counts": [
+        {
+          "m": "2026-03",
+          "met": 16,
+          "visits": 26,
+          "rate": "61.54%"
+        },
+        {
+          "m": "2026-02",
+          "met": 15,
+          "visits": 25,
+          "rate": "60%"
+        }
+      ]
+    },
+    {
+      "selection": [
+        "Harbor"
+      ],
+      "counts": [
+        {
+          "m": "2026-03",
+          "met": 7,
+          "visits": 13,
+          "rate": "53.85%"
+        },
+        {
+          "m": "2026-02",
+          "met": 7,
+          "visits": 13,
+          "rate": "53.85%"
+        }
+      ]
+    },
+    {
+      "selection": [],
+      "counts": [
+        {
+          "m": "2026-03",
+          "met": 23,
+          "visits": 39,
+          "rate": "58.97%"
+        },
+        {
+          "m": "2026-02",
+          "met": 21,
+          "visits": 37,
+          "rate": "56.76%"
+        }
+      ]
+    }
+  ]
+}

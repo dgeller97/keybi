@@ -1,0 +1,125 @@
+{
+  "expression": "IF(ISBLANK(SUM('Transaction'[Actual])), BLANK(), [Actual less forecast])",
+  "months": {
+    "2026-01": [
+      {
+        "department": "Facilities",
+        "actual": "$1,093.00",
+        "variance": "$43.00",
+        "icon": "Posted variance $43.00 · Above upper threshold, unfavorable",
+        "background": "rgb(236, 207, 200)"
+      },
+      {
+        "department": "Medicine",
+        "actual": "$2,136.00",
+        "variance": "$136.00",
+        "icon": "Posted variance $136.00 · Above upper threshold, unfavorable",
+        "background": "rgb(195, 102, 80)"
+      },
+      {
+        "department": "Surgery",
+        "actual": "$3,210.00",
+        "variance": "$110.00",
+        "icon": "Posted variance $110.00 · Above upper threshold, unfavorable",
+        "background": "rgb(207, 131, 113)"
+      },
+      {
+        "department": "Grand total",
+        "actual": "$6,439.00",
+        "variance": "$289.00",
+        "icon": "Posted variance $289.00 · Above upper threshold, unfavorable",
+        "background": "rgb(189, 86, 62)"
+      }
+    ],
+    "2026-02": [
+      {
+        "department": "Facilities",
+        "actual": "$1,153.00",
+        "variance": "$3.00",
+        "icon": "Posted variance $3.00 · Above upper threshold, unfavorable",
+        "background": "rgb(254, 252, 251)"
+      },
+      {
+        "department": "Medicine",
+        "actual": "$2,175.00",
+        "variance": "$25.00",
+        "icon": "Posted variance $25.00 · Above upper threshold, unfavorable",
+        "background": "rgb(244, 227, 223)"
+      },
+      {
+        "department": "Surgery",
+        "actual": "—",
+        "variance": "-$3,200.00",
+        "icon": null,
+        "background": ""
+      },
+      {
+        "department": "Grand total",
+        "actual": "$3,328.00",
+        "variance": "-$3,172.00",
+        "icon": "Posted variance -$3,172.00 · Below lower threshold, favorable",
+        "background": "rgb(57, 118, 94)"
+      }
+    ],
+    "2026-03": [
+      {
+        "department": "Facilities",
+        "actual": "$1,213.00",
+        "variance": "-$37.00",
+        "icon": "Posted variance -$37.00 · Below lower threshold, favorable",
+        "background": "rgb(206, 221, 215)"
+      },
+      {
+        "department": "Medicine",
+        "actual": "$2,217.00",
+        "variance": "$17.00",
+        "icon": "Posted variance $17.00 · Above upper threshold, unfavorable",
+        "background": "rgb(248, 236, 233)"
+      },
+      {
+        "department": "Surgery",
+        "actual": "$3,250.00",
+        "variance": "-$50.00",
+        "icon": "Posted variance -$50.00 · Below lower threshold, favorable",
+        "background": "rgb(189, 209, 201)"
+      },
+      {
+        "department": "Grand total",
+        "actual": "$6,680.00",
+        "variance": "-$70.00",
+        "icon": "Posted variance -$70.00 · Below lower threshold, favorable",
+        "background": "rgb(163, 191, 180)"
+      }
+    ],
+    "2026-04": [
+      {
+        "department": "Facilities",
+        "actual": "$1,273.00",
+        "variance": "$73.00",
+        "icon": "Posted variance $73.00 · Above upper threshold, unfavorable",
+        "background": "rgb(223, 173, 161)"
+      },
+      {
+        "department": "Medicine",
+        "actual": "$2,256.00",
+        "variance": "-$44.00",
+        "icon": "Posted variance -$44.00 · Below lower threshold, favorable",
+        "background": "rgb(197, 215, 208)"
+      },
+      {
+        "department": "Surgery",
+        "actual": "$3,270.00",
+        "variance": "-$80.00",
+        "icon": "Posted variance -$80.00 · Below lower threshold, favorable",
+        "background": "rgb(149, 182, 169)"
+      },
+      {
+        "department": "Grand total",
+        "actual": "$6,799.00",
+        "variance": "-$51.00",
+        "icon": "Posted variance -$51.00 · Below lower threshold, favorable",
+        "background": "rgb(188, 208, 200)"
+      }
+    ]
+  }
+}

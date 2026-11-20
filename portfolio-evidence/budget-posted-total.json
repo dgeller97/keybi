@@ -1,0 +1,21 @@
+{
+  "expression": "SUMX(VALUES('Department'[Department]), [Posted variance])",
+  "months": {
+    "2026-01": {
+      "posted": 289,
+      "ledger": 289
+    },
+    "2026-02": {
+      "posted": 28,
+      "ledger": -3172
+    },
+    "2026-03": {
+      "posted": -70,
+      "ledger": -70
+    },
+    "2026-04": {
+      "posted": -51,
+      "ledger": -51
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e901048e56e6504/page/fb6450ed-ad78-4892-86b6-531534618854",
+  "periods": {
+    "2026-01": {
+      "amounts": {
+        "Facilities": 1093,
+        "Medicine": 2136,
+        "Surgery": 3210
+      },
+      "total": 6439
+    },
+    "2026-02": {
+      "amounts": {
+        "Facilities": 1153,
+        "Medicine": 2175,
+        "Surgery": null
+      },
+      "total": 3328
+    },
+    "2026-03": {
+      "amounts": {
+        "Facilities": 1213,
+        "Medicine": 2217,
+        "Surgery": 3250
+      },
+      "total": 6680
+    },
+    "2026-04": {
+      "amounts": {
+        "Facilities": 1273,
+        "Medicine": 2256,
+        "Surgery": 3270
+      },
+      "total": 6799
+    }
+  },
+  "aprilFacilitiesPostings": [
+    "T24",
+    "T25"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "months": {
+    "2026-01": {
+      "Monthly forecast": {
+        "value": "$6,150.00",
+        "fontSize": 44.331,
+        "width": 220.37374877929688,
+        "available": 271.09197998046875,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Above forecast": {
+        "value": "$289.00",
+        "fontSize": 47,
+        "width": 199.4176025390625,
+        "available": 271.092041015625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Posted departments variance": {
+        "value": "$289.00",
+        "fontSize": 47,
+        "width": 199.4176025390625,
+        "available": 315.08502197265625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      }
+    },
+    "2026-02": {
+      "Monthly forecast": {
+        "value": "$6,500.00",
+        "fontSize": 42.4868,
+        "width": 220.46658325195312,
+        "available": 271.09197998046875,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Above forecast": {
+        "value": "-$3,172.00",
+        "fontSize": 41.94,
+        "width": 220.48516845703125,
+        "available": 271.092041015625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Posted departments variance": {
+        "value": "$28.00",
+        "fontSize": 47,
+        "width": 169.85986328125,
+        "available": 315.08502197265625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      }
+    },
+    "2026-03": {
+      "Monthly forecast": {
+        "value": "$6,750.00",
+        "fontSize": 43.5833,
+        "width": 220.41085815429688,
+        "available": 271.09197998046875,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Above forecast": {
+        "value": "-$70.00",
+        "fontSize": 47,
+        "width": 186.54296875,
+        "available": 271.092041015625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Posted departments variance": {
+        "value": "-$70.00",
+        "fontSize": 47,
+        "width": 186.54296875,
+        "available": 315.08502197265625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      }
+    },
+    "2026-04": {
+      "Monthly forecast": {
+        "value": "$6,850.00",
+        "fontSize": 42.6562,
+        "width": 220.46658325195312,
+        "available": 271.09197998046875,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Above forecast": {
+        "value": "-$51.00",
+        "fontSize": 47,
+        "width": 177.69976806640625,
+        "available": 271.092041015625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      },
+      "Posted departments variance": {
+        "value": "-$51.00",
+        "fontSize": 47,
+        "width": 177.6998291015625,
+        "available": 315.08502197265625,
+        "overflowRight": 0,
+        "overflowLeft": 0,
+        "overflowTop": 0,
+        "overflowBottom": 0
+      }
+    }
+  },
+  "formattingQueries": 0
+}

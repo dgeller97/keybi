@@ -1,0 +1,29 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/ec4c6d09-3925-4171-8218-45fe1d2e479d",
+  "results": [
+    {
+      "month": "All",
+      "channel": "Retail",
+      "revenue": 844,
+      "highlighted": "844"
+    },
+    {
+      "month": "All",
+      "channel": "Online",
+      "revenue": 887,
+      "highlighted": ""
+    },
+    {
+      "month": "2026-03-01",
+      "channel": "Retail",
+      "revenue": 323,
+      "highlighted": "323"
+    },
+    {
+      "month": "2026-03-01",
+      "channel": "Online",
+      "revenue": 409,
+      "highlighted": ""
+    }
+  ]
+}

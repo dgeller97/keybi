@@ -1,0 +1,51 @@
+{
+  "selections": [
+    {
+      "date": "2025-01-01",
+      "ms": 66.5,
+      "categories": 12,
+      "denominator": "$1,371,374.96"
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 68.19999998807907,
+      "categories": 12,
+      "denominator": "$1,447,990.02"
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 61.20000001788139,
+      "categories": 12,
+      "denominator": "$1,379,906.79"
+    },
+    {
+      "date": "All",
+      "ms": 46.30000001192093,
+      "categories": 12,
+      "denominator": "$504,604,610.30"
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 53.400000005960464,
+      "categories": 12,
+      "denominator": "$1,371,374.96"
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 53.099999994039536,
+      "categories": 12,
+      "denominator": "$1,447,990.02"
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 61.30000001192093,
+      "categories": 12,
+      "denominator": "$1,379,906.79"
+    }
+  ],
+  "afterBaseEdit": {
+    "expression": "SUM('Sales'[Profit])",
+    "total": "$113,480,392.39",
+    "checkedRows": 13
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "before": [
+    7,
+    4,
+    965,
+    135
+  ],
+  "after": [
+    7,
+    4,
+    965,
+    135
+  ],
+  "selected": [
+    "Authorized amount",
+    "Purchase line count",
+    "Average line amount"
+  ],
+  "facilities": 112.25
+}

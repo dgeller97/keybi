@@ -1,0 +1,13 @@
+{
+  "first": {
+    "order": "P-01",
+    "amount": 124.5
+  },
+  "second": {
+    "order": "P-02",
+    "amount": 80
+  },
+  "unmapped": "P-03",
+  "clearedSelection": true,
+  "readerEnlarged": true
+}

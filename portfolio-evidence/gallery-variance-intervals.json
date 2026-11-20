@@ -1,0 +1,39 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/read/page/33fb4aeb-411c-4a6b-904e-f83c981f1f10",
+  "bins": {
+    "0": {
+      "count": 5,
+      "variance": 41,
+      "revenue": 741,
+      "regions": {
+        "West": 238,
+        "East": 503
+      }
+    },
+    "20": {
+      "count": 2,
+      "variance": 44,
+      "revenue": 264,
+      "regions": {
+        "East": 264
+      }
+    },
+    "40": {
+      "count": 1,
+      "variance": 40,
+      "revenue": 240,
+      "regions": {
+        "West": 240
+      }
+    },
+    "-20": {
+      "count": 4,
+      "variance": -44,
+      "revenue": 486,
+      "regions": {
+        "East": 96,
+        "West": 390
+      }
+    }
+  }
+}

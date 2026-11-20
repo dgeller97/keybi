@@ -1,0 +1,25 @@
+{
+  "bookmark": "March paired channels",
+  "source": "Channel cards",
+  "target": "Dispatch records",
+  "rows": [
+    [
+      "2026-03-01",
+      "East",
+      "Online",
+      "13",
+      "169",
+      "150",
+      "19"
+    ],
+    [
+      "2026-03-01",
+      "West",
+      "Retail",
+      "11",
+      "143",
+      "150",
+      "-7"
+    ]
+  ]
+}

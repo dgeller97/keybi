@@ -1,0 +1,16 @@
+[
+  {
+    "report": "Budget vs. Actual",
+    "page": "Forecast review",
+    "name": "Department Facilities · Actual: $1,273.00",
+    "reason": "Actual less forecast is $73.00, above the $0.00 threshold.",
+    "queries": 0
+  },
+  {
+    "report": "Hospital Operations",
+    "page": "Attainment exceptions",
+    "name": "Date 2026-03-05 · Within 45 minutes: 33.33%",
+    "reason": "Within 45 minutes is 33.33%, below the 60% threshold.",
+    "queries": 0
+  }
+]

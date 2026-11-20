@@ -1,0 +1,12 @@
+{
+  "all": "All branches",
+  "filteredTitle": "Units · Partner",
+  "north": 5,
+  "blank": 2,
+  "style": [
+    "rgb(48, 95, 84)",
+    "18px",
+    "center"
+  ],
+  "reopened": true
+}

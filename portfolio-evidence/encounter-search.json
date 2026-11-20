@@ -1,0 +1,45 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e900ae81e95b242/read/page/026c108b-8117-4665-a7fd-37cbf818f60d",
+  "search": "e19",
+  "routine": 174,
+  "matches": [
+    "E190",
+    "E191",
+    "E192"
+  ],
+  "bookmark": "Two encounters for review",
+  "saved": [
+    [
+      "E002",
+      "Harbor",
+      "36"
+    ],
+    [
+      "E192",
+      "Ridge",
+      "58"
+    ]
+  ],
+  "changed": [
+    [
+      "E002",
+      "Harbor",
+      "36"
+    ],
+    [
+      "E191",
+      "Harbor",
+      "34"
+    ]
+  ],
+  "bulkEntry": {
+    "supplied": [
+      "E002",
+      "E192"
+    ],
+    "multilineInputs": 0,
+    "pasteButtons": 0,
+    "searches": 2,
+    "checkboxes": 2
+  }
+}

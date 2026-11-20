@@ -1,0 +1,26 @@
+{
+  "gesture": "Click first title; Ctrl-click the other two",
+  "chosen": [
+    "Transactions"
+  ],
+  "positions": [
+    [
+      25,
+      48,
+      210,
+      124
+    ],
+    [
+      315,
+      17,
+      180,
+      100
+    ],
+    [
+      720,
+      82,
+      245,
+      108
+    ]
+  ]
+}

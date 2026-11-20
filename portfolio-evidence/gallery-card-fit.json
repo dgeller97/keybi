@@ -1,0 +1,74 @@
+[
+  {
+    "period": "2026-03-01",
+    "name": "Selected channel revenue",
+    "value": "$143.00",
+    "fontSize": 42,
+    "width": 169.50680541992188,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  },
+  {
+    "period": "2026-03-01",
+    "name": "Online revenue",
+    "value": "$240.00",
+    "fontSize": 42,
+    "width": 179.037353515625,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  },
+  {
+    "period": "2026-03-01",
+    "name": "Variance from Online",
+    "value": "-$97.00",
+    "fontSize": 42,
+    "width": 164.30487060546875,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  },
+  {
+    "period": "All",
+    "name": "Selected channel revenue",
+    "value": "$390.00",
+    "fontSize": 42,
+    "width": 178.74014282226562,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  },
+  {
+    "period": "All",
+    "name": "Online revenue",
+    "value": "$478.00",
+    "fontSize": 42,
+    "width": 175.35888671875,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  },
+  {
+    "period": "All",
+    "name": "Variance from Online",
+    "value": "-$88.00",
+    "fontSize": 42,
+    "width": 170.51007080078125,
+    "available": 273.47003173828125,
+    "overflowRight": 0,
+    "overflowLeft": 0,
+    "overflowTop": 0,
+    "overflowBottom": 0
+  }
+]

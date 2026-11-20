@@ -1,0 +1,233 @@
+{
+  "selections": [
+    {
+      "date": "2025-01-01",
+      "ms": 103,
+      "categories": 12,
+      "denominator": "$1,371,374.96",
+      "categoryA": "$114,822.66",
+      "iterated": "$730,883.32",
+      "qualifyingCategories": 6
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 100.19999998807907,
+      "categories": 12,
+      "denominator": "$1,447,990.02",
+      "categoryA": "$135,966.23",
+      "iterated": "$398,147.27",
+      "qualifyingCategories": 3
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 100.69999998807907,
+      "categories": 12,
+      "denominator": "$1,379,906.79",
+      "categoryA": "$116,381.61",
+      "iterated": "$613,021.12",
+      "qualifyingCategories": 5
+    },
+    {
+      "date": "All",
+      "ms": 49.900000005960464,
+      "categories": 12,
+      "denominator": "$504,604,610.30",
+      "categoryA": "$42,150,419.86",
+      "iterated": "$337,086,170.62",
+      "qualifyingCategories": 8
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 51.89999997615814,
+      "categories": 12,
+      "denominator": "$1,371,374.96",
+      "categoryA": "$114,822.66",
+      "iterated": "$730,883.32",
+      "qualifyingCategories": 6
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 65.90000000596046,
+      "categories": 12,
+      "denominator": "$1,447,990.02",
+      "categoryA": "$135,966.23",
+      "iterated": "$398,147.27",
+      "qualifyingCategories": 3
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 67.7000000178814,
+      "categories": 12,
+      "denominator": "$1,379,906.79",
+      "categoryA": "$116,381.61",
+      "iterated": "$613,021.12",
+      "qualifyingCategories": 5
+    }
+  ],
+  "afterBaseEdit": {
+    "expression": "SUM('Sales'[Profit])",
+    "total": "$113,480,392.39",
+    "checkedRows": 13
+  },
+  "statusIcons": {
+    "paints": [
+      {
+        "selection": "detail",
+        "ms": 30.69999998807907
+      },
+      {
+        "selection": "all",
+        "ms": 37.5
+      },
+      {
+        "selection": "totals",
+        "ms": 36.599999994039536
+      },
+      {
+        "selection": "all",
+        "ms": 39.19999998807907
+      }
+    ],
+    "queries": 0
+  },
+  "hiddenSource": [
+    {
+      "date": "2025-01-01",
+      "ms": 117.5,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 108.5,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 107.90000000596046,
+      "checkedRows": 13
+    },
+    {
+      "date": "All",
+      "ms": 58.70000001788139,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 58.900000005960464,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 58.400000005960464,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 57.400000005960464,
+      "checkedRows": 13
+    }
+  ],
+  "colorScale": [
+    {
+      "date": "All",
+      "ms": 64.59999999403954,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 59,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 57.599999994039536,
+      "checkedRows": 13
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 57,
+      "checkedRows": 13
+    }
+  ],
+  "categoryCards": [
+    {
+      "date": "2025-01-01",
+      "ms": 75.2000000178814,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 74.19999998807907,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 73.80000001192093,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "All",
+      "ms": 58.900000005960464,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-01-01",
+      "ms": 58.10000002384186,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-07-02",
+      "ms": 58.70000001788139,
+      "verifiedTiles": 12
+    },
+    {
+      "date": "2025-12-31",
+      "ms": 58.900000005960464,
+      "verifiedTiles": 12
+    }
+  ],
+  "paired": [
+    {
+      "ms": 62.099999994039536,
+      "amount": "$114,822.66",
+      "labels": [
+        "2025-01-01 › A"
+      ]
+    },
+    {
+      "ms": 62.30000001192093,
+      "amount": "$223,831.26",
+      "labels": [
+        "2025-01-01 › A",
+        "2025-01-02 › B"
+      ]
+    },
+    {
+      "ms": 62.400000005960464,
+      "amount": "$109,008.60",
+      "labels": [
+        "2025-01-02 › B"
+      ]
+    },
+    {
+      "ms": 62.80000001192093,
+      "amount": "$223,831.26",
+      "labels": [
+        "2025-01-01 › A",
+        "2025-01-02 › B"
+      ]
+    },
+    {
+      "ms": 62.80000001192093,
+      "amount": "$114,822.66",
+      "labels": [
+        "2025-01-01 › A"
+      ]
+    },
+    {
+      "ms": 62.20000001788139,
+      "amount": "$504,604,610.30",
+      "labels": []
+    }
+  ]
+}

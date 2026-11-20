@@ -1,0 +1,32 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/84d5da57-87f5-42ac-8b36-7d591a703a58",
+  "axis": "Channel",
+  "legend": "Region",
+  "columns": [
+    "orders",
+    "revenue",
+    "target"
+  ],
+  "pairs": {
+    "Retail/East": [
+      41,
+      454,
+      420
+    ],
+    "Online/East": [
+      33,
+      409,
+      380
+    ],
+    "Retail/West": [
+      30,
+      390,
+      420
+    ],
+    "Online/West": [
+      33,
+      478,
+      430
+    ]
+  }
+}

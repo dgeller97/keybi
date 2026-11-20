@@ -1,0 +1,50 @@
+import assert from "node:assert/strict";
+import {readFile,writeFile} from "node:fs/promises";
+import {art,capture,open,save,setInput,settled,studio} from "./portfolio-ui.mjs";
+
+const bookmark="Revenue for the busiest region";
+const chart=p=>art(p,"Regional revenue by channel");
+const dispatch=(await readFile("web/datasets/gallery/Dispatch.csv","utf8")).trim().split(/\r?\n/).slice(1).map(s=>s.split(","));
+const east=dispatch.filter(r=>r[1]==="East").sort();
+const expected=["Online","Retail"].map(channel=>["East",channel,String(east.filter(r=>r[2]===channel).reduce((n,r)=>n+Number(r[4]),0))]);
+const proof={bookmark,orders:east.reduce((n,r)=>n+Number(r[3]),0)};
+await studio(async p=>{
+  await open(p,"Visual Gallery"); const original=await p.locator(".page.active").getAttribute("data-page");
+  await p.getByRole("button",{name:"Comparisons",exact:true}).click(); await settled(p);
+  await chart(p).locator(".vhead strong").click(); await p.locator("[data-tab=Build]").click();
+  const order=await p.locator("#rank-order").inputValue(),limit=await p.locator("#rank-limit").inputValue(),prior=await p.locator("#rank-measure").inputValue();
+  await p.locator("#rank-order").selectOption("desc"); await setInput(p,"#rank-limit",1);
+  await p.getByLabel("Rank by measure").selectOption({label:"Dispatch orders"}); await settled(p);
+  await chart(p).getByRole("button",{name:"Show as a table"}).click();
+  const table=p.getByRole("dialog").getByRole("table"); await table.waitFor();
+  proof.heading=await table.locator("th").allTextContents();
+  proof.rows=await table.locator("tbody tr").evaluateAll(es=>es.map(tr=>[...tr.cells].map(td=>td.textContent)));
+  assert.deepEqual(proof.heading,["Region","Channel","Revenue"]); assert.deepEqual(proof.rows,expected);
+  await p.keyboard.press("Escape"); await chart(p).getByRole("button",{name:"Region = East",exact:true}).click(); await settled(p);
+  assert.equal(await art(p,"Revenue in selection").locator(".kpi").innerText(),"$863.00");
+  await p.locator(".ribbon [data-action=bookmarks]").click();
+  const existing=p.locator("dialog [data-bookmark-go]").filter({hasText:bookmark});
+  if(await existing.count()) await existing.locator("..").locator("[data-bookmark-update]").click();
+  else {await p.getByLabel("New bookmark name").fill(bookmark); await p.getByRole("button",{name:"Add current view"}).click();}
+  await chart(p).getByRole("button",{name:"Clear selection"}).click();
+  await p.locator("#rank-measure").selectOption(prior); await p.locator("#rank-order").selectOption(order); await setInput(p,"#rank-limit",limit); await settled(p);
+  await p.locator('[data-page="'+original+'"]').click(); await save(p);
+});
+await studio(async p=>{
+  await open(p,"Visual Gallery"); await p.locator(".ribbon [data-action=bookmarks]").click();
+  await p.getByRole("button",{name:bookmark,exact:true}).click(); await settled(p);
+  assert.deepEqual(await chart(p).locator("[data-axis-pick]").allTextContents(),["East"]);
+  assert.equal(await art(p,"Revenue in selection").locator(".kpi").innerText(),"$863.00");
+  await chart(p).locator(".vhead strong").click(); await p.locator("[data-tab=Build]").click();
+  assert.equal(await p.locator("#rank-measure option:checked").innerText(),"Dispatch orders");
+  await capture(p,"gallery-hidden-rank");
+  await chart(p).getByRole("button",{name:"View records"}).click(); await settled(p);
+  proof.records=await art(p,"Dispatch ledger").locator("tbody tr").evaluateAll(es=>es.map(tr=>[...tr.cells].map(td=>td.textContent)));
+  assert.deepEqual(proof.records,east);
+  await p.locator("[data-action=drill-back]").click(); await settled(p);
+  await chart(p).locator(".vhead strong").click(); await p.locator("[data-tab=Build]").click();
+  await p.locator("#rank-order").selectOption("asc"); await settled(p);
+  assert.deepEqual(await chart(p).locator("[data-axis-pick]").allTextContents(),["West"]);
+  assert.equal(await art(p,"Revenue in selection").locator(".kpi").innerText(),"$1,731.00");
+});
+await writeFile("portfolio-evidence/gallery-hidden-rank.json",JSON.stringify(proof,null,2)+"\n"); console.log(bookmark,expected);

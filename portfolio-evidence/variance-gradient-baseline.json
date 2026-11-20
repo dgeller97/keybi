@@ -1,0 +1,53 @@
+{
+  "month": "2026-01",
+  "rows": [
+    {
+      "path": [
+        "Facilities"
+      ],
+      "actual": "$1,093.00",
+      "band": "high",
+      "label": "Actual less forecast $43.00 · Above upper threshold, unfavorable",
+      "variance": "$43.00",
+      "background": "rgb(246, 215, 200)"
+    },
+    {
+      "path": [
+        "Medicine"
+      ],
+      "actual": "$2,136.00",
+      "band": "high",
+      "label": "Actual less forecast $136.00 · Above upper threshold, unfavorable",
+      "variance": "$136.00",
+      "background": "rgb(246, 215, 200)"
+    },
+    {
+      "path": [
+        "Surgery"
+      ],
+      "actual": "$3,210.00",
+      "band": "high",
+      "label": "Actual less forecast $110.00 · Above upper threshold, unfavorable",
+      "variance": "$110.00",
+      "background": "rgb(246, 215, 200)"
+    },
+    {
+      "path": [],
+      "actual": "$6,439.00",
+      "band": "high",
+      "label": "Actual less forecast $289.00 · Above upper threshold, unfavorable",
+      "variance": "$289.00",
+      "background": "rgb(246, 215, 200)"
+    }
+  ],
+  "controls": [
+    "enabled",
+    "color-source",
+    "threshold",
+    "below",
+    "above",
+    "scope",
+    "icons",
+    "bars"
+  ]
+}

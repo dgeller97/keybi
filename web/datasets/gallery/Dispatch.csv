@@ -1,0 +1,13 @@
+Period,Region,Channel,Orders,Revenue,Target,Change
+2026-01-01,East,Retail,12,120,100,20
+2026-01-01,East,Online,8,96,110,-14
+2026-01-01,West,Retail,10,130,140,-10
+2026-01-01,West,Online,6,84,80,4
+2026-02-01,East,Retail,14,154,150,4
+2026-02-01,East,Online,12,144,120,24
+2026-02-01,West,Retail,9,117,130,-13
+2026-02-01,West,Online,11,154,150,4
+2026-03-01,East,Retail,15,180,170,10
+2026-03-01,East,Online,13,169,150,19
+2026-03-01,West,Retail,11,143,150,-7
+2026-03-01,West,Online,16,240,200,40

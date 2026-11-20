@@ -1,0 +1,17 @@
+{
+  "actions": [
+    "",
+    "Create time bins",
+    "Cancel",
+    "Replace"
+  ],
+  "binDialogs": 4,
+  "separateWellAdditions": 3,
+  "levels": [
+    "Date (year)",
+    "Date (quarter)",
+    "Date (month)",
+    "Date (day)"
+  ],
+  "visits": 174
+}

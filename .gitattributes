@@ -1,0 +1,6 @@
+# The seed manifest verifies the exact bytes of every archived report and table.
+/portfolio/** -text
+*.keybi binary
+*.parquet binary
+*.xlsx binary
+*.img binary

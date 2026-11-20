@@ -1,0 +1,12 @@
+{
+  "gallery": {
+    "otherChart": "$887.00",
+    "cancel": "$887.00",
+    "source": "$1,731.00"
+  },
+  "hospital": {
+    "oneMonth": 12,
+    "afterClear": 50,
+    "scope": "Harbor, Routine, Closed"
+  }
+}

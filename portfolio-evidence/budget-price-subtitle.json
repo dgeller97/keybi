@@ -1,0 +1,8 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e901048e56e6504/read/page/f1a9e929-537d-469e-946e-b27f1ca8614c",
+  "expr": "\"Department · \" & SELECTEDVALUE('Cost centers'[Department], \"All departments\")",
+  "values": {
+    "All departments": "$225.75",
+    "Facilities": "$112.25"
+  }
+}

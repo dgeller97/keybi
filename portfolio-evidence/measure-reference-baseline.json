@@ -1,0 +1,4 @@
+{
+  "expression": "DIVIDE([Dispatch revenue], [Revenue across channels])",
+  "error": "Expected (."
+}

@@ -1,0 +1,9 @@
+Task,Workstream,Start,Finish,Complete,CrewDays
+Survey depots,Network,2026-01-26,2026-02-04,1,8
+Pilot routes,Network,2026-02-04,2026-02-18,0.75,18
+Approve routes,Network,2026-02-19,,1,0
+Install scanners,Warehouse,2026-02-09,2026-02-25,0.5,16
+Train shift leads,Warehouse,2026-02-23,2026-03-02,0.25,8
+Release inventory,Warehouse,2026-03-03,,0,0
+Load forecasts,Planning,2026-02-02,2026-02-12,1,6
+Confirm staffing,Planning,2026-02-12,2026-02-20,0.75,4

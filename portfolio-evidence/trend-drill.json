@@ -1,0 +1,32 @@
+[
+  {
+    "category": "A",
+    "dates": 365,
+    "displayMs": 63.900000005960464
+  },
+  {
+    "category": "F",
+    "dates": 365,
+    "displayMs": 64
+  },
+  {
+    "category": "L",
+    "dates": 365,
+    "displayMs": 64
+  },
+  {
+    "category": "A",
+    "dates": 365,
+    "displayMs": 64.2000000178814
+  },
+  {
+    "category": "F",
+    "dates": 365,
+    "displayMs": 64.30000001192093
+  },
+  {
+    "category": "L",
+    "dates": 365,
+    "displayMs": 63.60000002384186
+  }
+]

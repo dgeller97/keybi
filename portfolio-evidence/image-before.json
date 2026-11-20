@@ -1,0 +1,9 @@
+{
+  "requested": "Attach a purchase voucher image",
+  "available": [
+    "textBox",
+    "shape",
+    "navigator",
+    "actionButton"
+  ]
+}

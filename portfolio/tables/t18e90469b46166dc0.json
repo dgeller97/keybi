@@ -1,0 +1,1 @@
+{"id":"t18e90469b46166dc0","name":"Dispatch","columns":[{"name":"Period","numeric":false},{"name":"Region","numeric":false},{"name":"Channel","numeric":false},{"name":"Orders","numeric":true},{"name":"Revenue","numeric":true},{"name":"Target","numeric":true},{"name":"Change","numeric":true}],"rows":12}

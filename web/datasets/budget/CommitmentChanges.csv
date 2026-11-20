@@ -1,0 +1,4 @@
+PeriodKey,DepartmentKey,PurchaseOrder,OrderedOn,LineAmount,Approved,Vendor.Name,Vendor.Ref,AuditValue
+4,1,12001,2026-04-21,250.00,true,North Mill,001,25.00
+4,2,12002,2026-04-22,-12.50,true,Lake Medical,002,2.50
+4,3,12003,2026-04-23,19.85,false,,,0.00

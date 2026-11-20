@@ -1,0 +1,67 @@
+{
+  "bookmark": "March dispatch points",
+  "proof": [
+    {
+      "options": {
+        "ctrl": true
+      },
+      "selection": [
+        [
+          "2026-03-01",
+          "East"
+        ]
+      ],
+      "value": "$349.00"
+    },
+    {
+      "options": {
+        "reverse": true,
+        "cancel": true
+      },
+      "selection": [
+        [
+          "2026-03-01",
+          "East"
+        ]
+      ],
+      "value": "$349.00"
+    },
+    {
+      "options": {
+        "reverse": true
+      },
+      "selection": [
+        [
+          "2026-03-01",
+          "East"
+        ],
+        [
+          "2026-03-01",
+          "West"
+        ]
+      ],
+      "value": "$732.00"
+    },
+    {
+      "options": {
+        "ctrl": true
+      },
+      "selection": [],
+      "value": "$1,731.00"
+    },
+    {
+      "cancelOnSelectedPoint": true,
+      "selection": [
+        [
+          "2026-03-01",
+          "East"
+        ],
+        [
+          "2026-03-01",
+          "West"
+        ]
+      ],
+      "value": "$732.00"
+    }
+  ]
+}

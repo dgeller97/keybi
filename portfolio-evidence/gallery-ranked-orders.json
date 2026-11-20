@@ -1,0 +1,96 @@
+{
+  "bookmark": "Busiest dispatch region",
+  "proof": [
+    {
+      "step": "First measure",
+      "region": "West",
+      "points": [
+        [
+          "West",
+          "Region West · Dispatch revenue: $868.00",
+          868
+        ],
+        [
+          "West",
+          "Region West · Dispatch orders: 63",
+          63
+        ]
+      ]
+    },
+    {
+      "step": "Chosen measure",
+      "region": "East",
+      "points": [
+        [
+          "East",
+          "Region East · Dispatch revenue: $863.00",
+          863
+        ],
+        [
+          "East",
+          "Region East · Dispatch orders: 74",
+          74
+        ]
+      ]
+    },
+    {
+      "step": "Reopen bookmark",
+      "region": "East",
+      "points": [
+        [
+          "East",
+          "Region East · Dispatch revenue: $863.00",
+          863
+        ],
+        [
+          "East",
+          "Region East · Dispatch orders: 74",
+          74
+        ]
+      ]
+    },
+    {
+      "step": "Convert to columns",
+      "region": "East",
+      "points": [
+        [
+          "East",
+          "Region East · Dispatch revenue: $863.00",
+          863
+        ],
+        [
+          "East",
+          "Region East · Dispatch orders: 74",
+          74
+        ]
+      ]
+    },
+    {
+      "step": "Use the remaining displayed measure",
+      "region": "West",
+      "points": [
+        [
+          "West",
+          "Region West · Dispatch revenue: $868.00",
+          868
+        ]
+      ]
+    },
+    {
+      "step": "Restore orders",
+      "region": "East",
+      "points": [
+        [
+          "East",
+          "Region East · Dispatch revenue: $863.00",
+          863
+        ],
+        [
+          "East",
+          "Region East · Dispatch orders: 74",
+          74
+        ]
+      ]
+    }
+  ]
+}

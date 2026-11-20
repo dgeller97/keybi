@@ -1,0 +1,1 @@
+{"id":"t18e8fe78ced668601","name":"Product","columns":[{"name":"ProductKey","numeric":true},{"name":"Category","numeric":false},{"name":"Product","numeric":false}],"rows":2}

@@ -1,0 +1,7 @@
+{
+  "options": [
+    "Left outer · all left rows",
+    "Inner · matching rows",
+    "Left anti · unmatched left rows"
+  ]
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "report": "Visual Gallery",
+    "viewport": {
+      "width": 1680,
+      "height": 980
+    },
+    "canvas": {
+      "width": 520,
+      "height": 380,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "$454.00",
+      "41"
+    ],
+    "displayedWidth": 534.3125,
+    "displayedHeight": 435
+  },
+  {
+    "report": "Visual Gallery",
+    "viewport": {
+      "width": 760,
+      "height": 640
+    },
+    "canvas": {
+      "width": 520,
+      "height": 380,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "$454.00",
+      "41"
+    ],
+    "displayedWidth": 534.3125,
+    "displayedHeight": 435
+  },
+  {
+    "report": "Visual Gallery",
+    "viewport": {
+      "width": 390,
+      "height": 580
+    },
+    "canvas": {
+      "width": 520,
+      "height": 380,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "$454.00",
+      "41"
+    ],
+    "displayedWidth": 374,
+    "displayedHeight": 317.84375
+  },
+  {
+    "report": "Hospital Operations",
+    "viewport": {
+      "width": 1680,
+      "height": 980
+    },
+    "canvas": {
+      "width": 550,
+      "height": 405,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "13",
+      "53.85%"
+    ],
+    "displayedWidth": 530.46875,
+    "displayedHeight": 435
+  },
+  {
+    "report": "Hospital Operations",
+    "viewport": {
+      "width": 760,
+      "height": 640
+    },
+    "canvas": {
+      "width": 550,
+      "height": 405,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "13",
+      "53.85%"
+    ],
+    "displayedWidth": 530.46875,
+    "displayedHeight": 435
+  },
+  {
+    "report": "Hospital Operations",
+    "viewport": {
+      "width": 390,
+      "height": 580
+    },
+    "canvas": {
+      "width": 550,
+      "height": 405,
+      "x": 18,
+      "y": 18
+    },
+    "values": [
+      "13",
+      "53.85%"
+    ],
+    "displayedWidth": 374,
+    "displayedHeight": 319.78125
+  }
+]

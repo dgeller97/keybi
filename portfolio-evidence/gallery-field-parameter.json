@@ -1,0 +1,29 @@
+{
+  "url": "http://127.0.0.1:4317/#r18e90469b9ea6dd81/page/84d5da57-87f5-42ac-8b36-7d591a703a58",
+  "parameter": "Operating measure",
+  "chart": "Regional contribution by channel",
+  "table": "Channel and region detail",
+  "default": "Dispatch revenue",
+  "members": [
+    "Dispatch revenue",
+    "Dispatch orders"
+  ],
+  "totals": {
+    "Retail/East": [
+      454,
+      41
+    ],
+    "Online/East": [
+      409,
+      33
+    ],
+    "Retail/West": [
+      390,
+      30
+    ],
+    "Online/West": [
+      478,
+      33
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tasks": 8,
+  "milestones": [
+    "Approve routes",
+    "Release inventory"
+  ],
+  "durations": [
+    {
+      "task": "Survey depots",
+      "elapsedDays": 9,
+      "completedFraction": 1,
+      "svgWidth": 166.5
+    },
+    {
+      "task": "Pilot routes",
+      "elapsedDays": 14,
+      "completedFraction": 0.75,
+      "svgWidth": 259
+    },
+    {
+      "task": "Install scanners",
+      "elapsedDays": 16,
+      "completedFraction": 0.5,
+      "svgWidth": 296
+    },
+    {
+      "task": "Train shift leads",
+      "elapsedDays": 7,
+      "completedFraction": 0.25,
+      "svgWidth": 129.5
+    },
+    {
+      "task": "Load forecasts",
+      "elapsedDays": 10,
+      "completedFraction": 1,
+      "svgWidth": 185
+    },
+    {
+      "task": "Confirm staffing",
+      "elapsedDays": 8,
+      "completedFraction": 0.75,
+      "svgWidth": 148
+    }
+  ],
+  "filteredCrewDays": 24
+}

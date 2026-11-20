@@ -1,0 +1,52 @@
+{
+  "names": [
+    "Comparisons",
+    "Trends",
+    "Distributions",
+    "Detail",
+    "Change and ranking",
+    "Pipeline",
+    "March briefing",
+    "Channel contribution",
+    "Delivery schedule",
+    "Depot coverage",
+    "Regional revenue mix",
+    "Channel performance",
+    "Compare groupings",
+    "Dispatch hierarchy",
+    "Dispatch by period",
+    "Channel share",
+    "Channel comparison",
+    "Channel cards"
+  ],
+  "proof": [
+    {
+      "includeHidden": false,
+      "includeTooltip": true,
+      "count": 19
+    },
+    {
+      "includeHidden": true,
+      "includeTooltip": true,
+      "count": 20
+    },
+    {
+      "includeHidden": true,
+      "includeTooltip": false,
+      "count": 19
+    },
+    {
+      "includeHidden": false,
+      "includeTooltip": false,
+      "count": 18
+    }
+  ],
+  "formatQueries": 0,
+  "hiddenPage": "Dispatch records",
+  "rows": [
+    "2026-01-01EastRetail1212010020",
+    "2026-02-01EastRetail141541504",
+    "2026-03-01EastRetail1518017010"
+  ],
+  "selectedRevenue": 454
+}

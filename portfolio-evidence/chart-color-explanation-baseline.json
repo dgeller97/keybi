@@ -1,0 +1,12 @@
+{
+  "mark": "Department Facilities · Actual: $1,273.00",
+  "description": null,
+  "tooltip": [
+    "Department Facilities · Actual: $1,273.00"
+  ],
+  "legend": "Actual\nForecast",
+  "fill": "#a63e31",
+  "actual": 1273,
+  "forecast": 1200,
+  "variance": 73
+}

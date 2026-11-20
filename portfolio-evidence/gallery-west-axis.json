@@ -1,0 +1,112 @@
+{
+  "bookmark": "West across channels",
+  "proof": [
+    {
+      "step": "Select axis label",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "Reopen bookmark",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "stackedColumn",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "dot",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "line",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "area",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "stackedArea",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "percentArea",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "clusteredBar",
+      "values": [
+        "West"
+      ],
+      "sum": 868,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "Add a second label",
+      "values": [
+        "West",
+        "East"
+      ],
+      "sum": 1731,
+      "records": 12,
+      "visibleMarks": 4
+    },
+    {
+      "step": "Remove the first label",
+      "values": [
+        "East"
+      ],
+      "sum": 863,
+      "records": 6,
+      "visibleMarks": 4
+    },
+    {
+      "step": "Remove East when only West qualifies",
+      "values": [],
+      "sum": 1731,
+      "records": 12,
+      "visibleMarks": 2
+    }
+  ]
+}

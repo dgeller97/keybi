@@ -1,0 +1,79 @@
+{
+  "frozen": {
+    "scrollLeft": 533,
+    "scrollTop": 86,
+    "viewportWidth": 468,
+    "headings": [
+      "Market",
+      "Desk",
+      "Service"
+    ],
+    "path": [
+      "South",
+      "Central",
+      "Web"
+    ],
+    "headersVisible": [
+      true,
+      true,
+      true
+    ],
+    "labelsVisible": [
+      true,
+      true,
+      true
+    ],
+    "aligned": true,
+    "leadingEdge": 0,
+    "labels": [
+      "South",
+      "Central",
+      "Web"
+    ]
+  },
+  "unfrozen": {
+    "scrollLeft": 533,
+    "scrollTop": 86,
+    "viewportWidth": 468,
+    "headings": [
+      "Market",
+      "Desk",
+      "Service"
+    ],
+    "path": [
+      "South",
+      "Central",
+      "Web"
+    ],
+    "headersVisible": [
+      false,
+      false,
+      false
+    ],
+    "labelsVisible": [
+      false,
+      false,
+      false
+    ],
+    "aligned": true,
+    "leadingEdge": -618.2799987792969,
+    "labels": [
+      "South",
+      "Central",
+      "Web"
+    ]
+  },
+  "queryRequests": 0,
+  "selectedValue": {
+    "amount": "$900.00",
+    "heading": "Billed",
+    "visible": true,
+    "labels": [
+      "South",
+      "Central",
+      "Rail"
+    ],
+    "scrollLeft": 164,
+    "scrollTop": 63
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"t18e901ed9ac000b80","name":"Referral","columns":[{"name":"Referral","numeric":false},{"name":"Clinic","numeric":false},{"name":"Period","numeric":false},{"name":"Wait","numeric":true},{"name":"Visits","numeric":true}],"rows":3744}

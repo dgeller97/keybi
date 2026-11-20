@@ -1,0 +1,31 @@
+{
+  "bytes": 27399,
+  "sourceTables": [
+    {
+      "name": "Bookings",
+      "rows": 1
+    },
+    {
+      "name": "Order log",
+      "rows": 5
+    },
+    {
+      "name": "Territory",
+      "rows": 2
+    }
+  ],
+  "pages": [
+    "Page 1",
+    "Order analysis"
+  ],
+  "bookmark": "East orders",
+  "joinedDivision": {
+    "B": 12
+  },
+  "selectedMargin": "40%",
+  "overallMargin": "13%",
+  "independentCopies": 2,
+  "sourceOffline": true,
+  "restart": true,
+  "damagedPackageRolledBack": true
+}

@@ -1,0 +1,58 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e900ae81e95b242/read/page/d3ac1591-54ba-4f58-b8ff-5bf561b6425e",
+  "monthly": {
+    "Harbor": {
+      "2026-01": {
+        "visits": 12,
+        "onTarget": 8
+      },
+      "2026-02": {
+        "visits": 13,
+        "onTarget": 7
+      },
+      "2026-03": {
+        "visits": 13,
+        "onTarget": 7
+      },
+      "2026-04": {
+        "visits": 12,
+        "onTarget": 5
+      }
+    },
+    "Ridge": {
+      "2026-01": {
+        "visits": 13,
+        "onTarget": 6
+      },
+      "2026-02": {
+        "visits": 12,
+        "onTarget": 6
+      },
+      "2026-03": {
+        "visits": 13,
+        "onTarget": 7
+      },
+      "2026-04": {
+        "visits": 12,
+        "onTarget": 7
+      }
+    }
+  },
+  "marchLedger": [
+    [
+      "Cedar",
+      "13",
+      "9"
+    ],
+    [
+      "Harbor",
+      "13",
+      "7"
+    ],
+    [
+      "Ridge",
+      "13",
+      "7"
+    ]
+  ]
+}

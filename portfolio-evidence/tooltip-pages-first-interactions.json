@@ -1,0 +1,133 @@
+[
+  {
+    "category": "A",
+    "color": "#243f76",
+    "ms": 34.29999998211861,
+    "queries": 0,
+    "amount": 42150419.86
+  },
+  {
+    "category": "B",
+    "color": "#ad4b1f",
+    "ms": 29.900000005960464,
+    "queries": 0,
+    "amount": 42050815.71
+  },
+  {
+    "category": "A",
+    "color": "#cfeec9",
+    "ms": 33.69999998807907,
+    "queries": 0,
+    "amount": 42150419.86
+  },
+  {
+    "source": "Margin",
+    "ms": 63,
+    "queries": 1
+  },
+  {
+    "threshold": 22.49,
+    "ms": 38.5,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "threshold": 22.51,
+    "ms": 39.10000002384186,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H",
+      "J",
+      "K"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "threshold": 22.49,
+    "ms": 39.599999994039536,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "source": "Margin thresholds / Revenue by category",
+    "ms": 39.400000005960464,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "focus": "A",
+    "reason": "Margin is 22.43%, below the 22.53% threshold.",
+    "ms": 24.19999998807907,
+    "additionalQueries": 0
+  },
+  {
+    "focus": "F",
+    "reason": "Margin is 22.59%, above the 22.53% threshold.",
+    "ms": 25.19999998807907,
+    "additionalQueries": 0
+  },
+  {
+    "focus": "A",
+    "reason": "Margin is 22.43%, below the 22.53% threshold.",
+    "ms": 24.099999994039536,
+    "additionalQueries": 0
+  },
+  {
+    "preview": "A",
+    "canvas": [
+      320,
+      240
+    ],
+    "amount": "$42,150,419.86",
+    "ms": 28,
+    "queries": 1
+  },
+  {
+    "preview": "B",
+    "canvas": [
+      320,
+      240
+    ],
+    "amount": "$42,050,815.71",
+    "ms": 25.099999994039536,
+    "queries": 2
+  },
+  {
+    "preview": "A",
+    "canvas": [
+      320,
+      240
+    ],
+    "amount": "$42,150,419.86",
+    "ms": 25.80000001192093,
+    "queries": 2
+  }
+]

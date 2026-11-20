@@ -1,0 +1,43 @@
+{
+  "link": "http://127.0.0.1:4317/#r18e901048e56e6504/read/page/25f7a0ac-697c-4a27-90c5-d276796649aa",
+  "rows": [
+    [
+      "P-01",
+      "Facilities lead",
+      "100",
+      "$124.50"
+    ],
+    [
+      "P-02",
+      "Surgery lead",
+      "75",
+      "$80.00"
+    ],
+    [
+      "P-03",
+      "Facilities lead",
+      "100",
+      "$0.00"
+    ],
+    [
+      "P-04",
+      "Facilities lead",
+      "100",
+      "-$12.25"
+    ],
+    [
+      "P-05",
+      "Imaging lead",
+      "50",
+      "$33.50"
+    ]
+  ],
+  "exceptions": [
+    "P-01",
+    "P-02"
+  ],
+  "surgery": {
+    "order": 80,
+    "limit": 75
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "report": "Visual Gallery",
+  "before": "Saved",
+  "after": "Unsaved changes",
+  "inspectorVisible": false,
+  "saveVisible": true,
+  "addVisualVisible": true,
+  "selectedRevenue": "$454.00"
+}

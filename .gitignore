@@ -1,0 +1,8 @@
+/.toolchain/
+/target/
+/.studio/
+/rustup-init.exe
+/bench-data/
+/node_modules/
+/test-results/
+/portfolio-evidence/last-failure.png

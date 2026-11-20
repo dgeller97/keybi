@@ -1,0 +1,12 @@
+{
+  "bookmark": "Channels below revenue target",
+  "rule": "Revenue attainment < 100%",
+  "matched": [
+    {
+      "region": "West",
+      "channel": "Retail",
+      "revenue": 390,
+      "target": 420
+    }
+  ]
+}

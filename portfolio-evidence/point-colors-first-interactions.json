@@ -1,0 +1,85 @@
+[
+  {
+    "category": "A",
+    "color": "#243f76",
+    "ms": 24.900000005960464,
+    "queries": 0,
+    "amount": 42150419.86
+  },
+  {
+    "category": "B",
+    "color": "#ad4b1f",
+    "ms": 34.5,
+    "queries": 0,
+    "amount": 42050815.71
+  },
+  {
+    "category": "A",
+    "color": "#cfeec9",
+    "ms": 33.900000005960464,
+    "queries": 0,
+    "amount": 42150419.86
+  },
+  {
+    "source": "Margin",
+    "ms": 61.89999997615814,
+    "queries": 1
+  },
+  {
+    "threshold": 22.49,
+    "ms": 39,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "threshold": 22.51,
+    "ms": 38.89999997615814,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H",
+      "J",
+      "K"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "threshold": 22.49,
+    "ms": 38.400000005960464,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ],
+    "additionalQueries": 0
+  },
+  {
+    "source": "Margin thresholds / Revenue by category",
+    "ms": 37.5,
+    "below": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "additionalQueries": 0
+  }
+]
